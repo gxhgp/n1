@@ -1,130 +1,130 @@
 央视,#genre#
-CCTV-1高清,http://74.48.89.252:34567/as.php?id=cctv1hd#http://74.48.89.252:34567/bestv.php?id=cctv1hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv1HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv1
-CCTV-2高清,http://74.48.89.252:34567/as.php?id=cctv2hd#http://74.48.89.252:34567/bestv.php?id=cctv2hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv2HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv2
-CCTV-3高清,http://74.48.89.252:34567/as.php?id=cctv3hd#http://74.48.89.252:34567/bestv.php?id=cctv3hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv3HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv3
-CCTV-4高清,http://74.48.89.252:34567/as.php?id=cctv4hd#http://74.48.89.252:34567/bestv.php?id=cctv4hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv4HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv4
-CCTV-5高清,http://74.48.89.252:34567/as.php?id=cctv5hd#http://74.48.89.252:34567/bestv.php?id=cctv5hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv5HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv5
-CCTV-5+高清,http://74.48.89.252:34567/as.php?id=cctv51hd#http://74.48.89.252:34567/bestv.php?id=cctv5phd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv5HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv5p
-CCTV-6高清,http://74.48.89.252:34567/as.php?id=cctv6hd#http://74.48.89.252:34567/bestv.php?id=cctv6hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv6HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv6
-CCTV-7高清,http://74.48.89.252:34567/as.php?id=cctv7hd#http://74.48.89.252:34567/bestv.php?id=cctv7hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv7HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv7
-CCTV-8高清,http://74.48.89.252:34567/as.php?id=cctv8hd#http://74.48.89.252:34567/bestv.php?id=cctv8hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv8HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv8
-CCTV-9高清,http://74.48.89.252:34567/as.php?id=cctv9hd1#http://74.48.89.252:34567/bestv.php?id=cctv9hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#http://74.48.89.252:34567/as.php?id=cctv9hd2#http://74.48.89.252:34567/cqyx_p.php?id=cctv9#https://live.imxd.top/live.php?id=cctv9HD
-CCTV-10高清,http://74.48.89.252:34567/as.php?id=cctv10hd#http://74.48.89.252:34567/bestv.php?id=cctv10hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv10HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv10
-CCTV-11高清,http://74.48.89.252:34567/as.php?id=cctv11hd#http://74.48.89.252:34567/bestv.php?id=cctv11hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv11HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv11
-CCTV-12高清,http://74.48.89.252:34567/as.php?id=cctv12hd#http://74.48.89.252:34567/bestv.php?id=cctv12hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv12HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv12
-CCTV-13高清,http://74.48.89.252:34567/as.php?id=cctv13hd#http://74.48.89.252:34567/bestv.php?id=cctv13hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=CCTVNewsHD#http://74.48.89.252:34567/cqyx_p.php?id=cctv13
-CCTV-14高清,http://74.48.89.252:34567/as.php?id=cctv14hd#http://74.48.89.252:34567/bestv.php?id=cctvsehd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctvseHD#http://74.48.89.252:34567/cqyx_p.php?id=cctv14
-CCTV-15高清,http://74.48.89.252:34567/as.php?id=cctv15hd#http://74.48.89.252:34567/bestv.php?id=cctv15hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv15HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv15
-CCTV-16高清,http://74.48.89.252:34567/as.php?id=cctv16hd#http://74.48.89.252:34567/bestv.php?id=cctv16hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv16HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv16
-CCTV-17高清,http://74.48.89.252:34567/as.php?id=cctv17hd#http://74.48.89.252:34567/bestv.php?id=cctv17hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv17HD#http://74.48.89.252:34567/cqyx_p.php?id=cctv17
-CGTN高清,http://74.48.89.252:34567/as.php?id=cgtnhd#http://74.48.89.252:34567/bestv.php?id=ottcctvnews&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cgtnSD#http://74.48.89.252:34567/cqyx_p.php?id=cgtn
-CETV1高清,http://74.48.89.252:34567/as.php?id=cetv1hd#http://74.48.89.252:34567/bestv.php?id=zgjy1t8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cetv-1SD#http://74.48.89.252:34567/cqyx_p.php?id=cetv1
+CCTV-1高清,http://192.168.1.101:34567/as.php?id=cctv1hd#http://192.168.1.101:34567/bestv.php?id=cctv1hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv1HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv1
+CCTV-2高清,http://192.168.1.101:34567/as.php?id=cctv2hd#http://192.168.1.101:34567/bestv.php?id=cctv2hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv2HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv2
+CCTV-3高清,http://192.168.1.101:34567/as.php?id=cctv3hd#http://192.168.1.101:34567/bestv.php?id=cctv3hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv3HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv3
+CCTV-4高清,http://192.168.1.101:34567/as.php?id=cctv4hd#http://192.168.1.101:34567/bestv.php?id=cctv4hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv4HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv4
+CCTV-5高清,http://192.168.1.101:34567/as.php?id=cctv5hd#http://192.168.1.101:34567/bestv.php?id=cctv5hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv5HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv5
+CCTV-5+高清,http://192.168.1.101:34567/as.php?id=cctv51hd#http://192.168.1.101:34567/bestv.php?id=cctv5phd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv5HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv5p
+CCTV-6高清,http://192.168.1.101:34567/as.php?id=cctv6hd#http://192.168.1.101:34567/bestv.php?id=cctv6hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv6HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv6
+CCTV-7高清,http://192.168.1.101:34567/as.php?id=cctv7hd#http://192.168.1.101:34567/bestv.php?id=cctv7hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv7HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv7
+CCTV-8高清,http://192.168.1.101:34567/as.php?id=cctv8hd#http://192.168.1.101:34567/bestv.php?id=cctv8hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv8HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv8
+CCTV-9高清,http://192.168.1.101:34567/as.php?id=cctv9hd1#http://192.168.1.101:34567/bestv.php?id=cctv9hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#http://192.168.1.101:34567/as.php?id=cctv9hd2#http://192.168.1.101:34567/cqyx_p.php?id=cctv9#https://live.imxd.top/live.php?id=cctv9HD
+CCTV-10高清,http://192.168.1.101:34567/as.php?id=cctv10hd#http://192.168.1.101:34567/bestv.php?id=cctv10hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv10HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv10
+CCTV-11高清,http://192.168.1.101:34567/as.php?id=cctv11hd#http://192.168.1.101:34567/bestv.php?id=cctv11hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv11HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv11
+CCTV-12高清,http://192.168.1.101:34567/as.php?id=cctv12hd#http://192.168.1.101:34567/bestv.php?id=cctv12hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv12HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv12
+CCTV-13高清,http://192.168.1.101:34567/as.php?id=cctv13hd#http://192.168.1.101:34567/bestv.php?id=cctv13hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=CCTVNewsHD#http://192.168.1.101:34567/cqyx_p.php?id=cctv13
+CCTV-14高清,http://192.168.1.101:34567/as.php?id=cctv14hd#http://192.168.1.101:34567/bestv.php?id=cctvsehd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctvseHD#http://192.168.1.101:34567/cqyx_p.php?id=cctv14
+CCTV-15高清,http://192.168.1.101:34567/as.php?id=cctv15hd#http://192.168.1.101:34567/bestv.php?id=cctv15hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv15HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv15
+CCTV-16高清,http://192.168.1.101:34567/as.php?id=cctv16hd#http://192.168.1.101:34567/bestv.php?id=cctv16hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv16HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv16
+CCTV-17高清,http://192.168.1.101:34567/as.php?id=cctv17hd#http://192.168.1.101:34567/bestv.php?id=cctv17hd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cctv17HD#http://192.168.1.101:34567/cqyx_p.php?id=cctv17
+CGTN高清,http://192.168.1.101:34567/as.php?id=cgtnhd#http://192.168.1.101:34567/bestv.php?id=ottcctvnews&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cgtnSD#http://192.168.1.101:34567/cqyx_p.php?id=cgtn
+CETV1高清,http://192.168.1.101:34567/as.php?id=cetv1hd#http://192.168.1.101:34567/bestv.php?id=zgjy1t8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=cetv-1SD#http://192.168.1.101:34567/cqyx_p.php?id=cetv1
 
 卫视,#genre#
-北京卫视高清,http://74.48.89.252:34567/as.php?id=bjwshd#http://74.48.89.252:34567/bestv.php?id=bjwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=beijingHD#http://74.48.89.252:34567/cqyx_p.php?id=bjws
-东方卫视高清,http://74.48.89.252:34567/as.php?id=dfwshd#http://74.48.89.252:34567/bestv.php?id=dfwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=shanghaiHD#http://74.48.89.252:34567/cqyx_p.php?id=dfws
-天津卫视高清,http://74.48.89.252:34567/as.php?id=tjwshd#http://74.48.89.252:34567/bestv.php?id=tjwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=tianjinHD#http://74.48.89.252:34567/cqyx_p.php?id=tjws
-重庆卫视高清,http://74.48.89.252:34567/as.php?id=cqwshd#http://74.48.89.252:34567/bestv.php?id=cqwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=chongqingHD#http://74.48.89.252:34567/cqyx_p.php?id=cqws
-黑龙江卫视高清,http://74.48.89.252:34567/as.php?id=hljwshd#http://74.48.89.252:34567/bestv.php?id=hljwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=heilongjiangHD#http://74.48.89.252:34567/cqyx_p.php?id=hljws
-吉林卫视高清,http://74.48.89.252:34567/as.php?id=jlwshd#http://74.48.89.252:34567/bestv.php?id=jlwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=jilinHD#http://74.48.89.252:34567/cqyx_p.php?id=jlws
-辽宁卫视高清,http://74.48.89.252:34567/as.php?id=lnwshd#http://74.48.89.252:34567/bestv.php?id=lnwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=liaoningHD#http://74.48.89.252:34567/cqyx_p.php?id=lnws
-内蒙古卫视,http://74.48.89.252:34567/as.php?id=nmgws#http://74.48.89.252:34567/bestv.php?id=nmgws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=neimengkuSD#http://74.48.89.252:34567/cqyx_p.php?id=nmws
-宁夏卫视,http://74.48.89.252:34567/as.php?id=nxws#http://74.48.89.252:34567/bestv.php?id=nxws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=ningxia#http://74.48.89.252:34567/cqyx_p.php?id=nxws
-甘肃卫视,http://74.48.89.252:34567/as.php?id=gsws#http://74.48.89.252:34567/bestv.php?id=gswshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
-青海卫视,http://74.48.89.252:34567/as.php?id=qhws#http://74.48.89.252:34567/bestv.php?id=qhws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=qinghaiSD#http://74.48.89.252:34567/cqyx_p.php?id=qhws
-陕西卫视,http://74.48.89.252:34567/as.php?id=xxws#http://74.48.89.252:34567/bestv.php?id=sxwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
-山西卫视,http://74.48.89.252:34567/as.php?id=sxws#http://74.48.89.252:34567/bestv.php?id=shanxiws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=shanxiSD#http://74.48.89.252:34567/cqyx_p.php?id=sxiws
-河北卫视高清,http://74.48.89.252:34567/as.php?id=hbwshd#http://74.48.89.252:34567/bestv.php?id=hbwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hebeiSD#http://74.48.89.252:34567/cqyx_p.php?id=hbws
-山东卫视高清,http://74.48.89.252:34567/as.php?id=sdwshd#http://74.48.89.252:34567/bestv.php?id=sdws8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
-安徽卫视高清,http://74.48.89.252:34567/as.php?id=ahwshd#http://74.48.89.252:34567/bestv.php?id=ahwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=anhuiSD#http://74.48.89.252:34567/cqyx_p.php?id=ahws
-河南卫视,http://74.48.89.252:34567/as.php?id=henws#http://74.48.89.252:34567/bestv.php?id=hnwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=henanHD#http://74.48.89.252:34567/cqyx_p.php?id=hnws
-湖北卫视高清,http://74.48.89.252:34567/as.php?id=hbwshd#http://74.48.89.252:34567/bestv.php?id=hubeiws8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hubeiSD#http://74.48.89.252:34567/cqyx_p.php?id=hubws
-湖南卫视高清,http://74.48.89.252:34567/as.php?id=hnwshd#http://74.48.89.252:34567/bestv.php?id=hunanwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hunanHD#http://74.48.89.252:34567/cqyx_p.php?id=hunws
-江西卫视高清,http://74.48.89.252:34567/as.php?id=jxwshd#http://74.48.89.252:34567/bestv.php?id=jxws8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=jiangxiHD#http://74.48.89.252:34567/cqyx_p.php?id=jxws
-江苏卫视高清,http://74.48.89.252:34567/as.php?id=jswshd#http://74.48.89.252:34567/bestv.php?id=jswshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=jiangsuHD#http://74.48.89.252:34567/cqyx_p.php?id=jsws
-浙江卫视高清,http://74.48.89.252:34567/as.php?id=jjwshd#http://74.48.89.252:34567/bestv.php?id=zjwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=zhejiangHD#http://74.48.89.252:34567/cqyx_p.php?id=zjws
-东南卫视高清,http://74.48.89.252:34567/as.php?id=dnwshd#http://74.48.89.252:34567/bestv.php?id=dnwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=dongnanHD#http://74.48.89.252:34567/cqyx_p.php?id=dnws
-厦门卫视,http://74.48.89.252:34567/as.php?id=xmws#http://74.48.89.252:34567/bestv.php?id=xmws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
-广东卫视高清,http://74.48.89.252:34567/as.php?id=gdwshd#http://74.48.89.252:34567/bestv.php?id=gdwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=guangdongHD#http://74.48.89.252:34567/cqyx_p.php?id=gdws
-深圳卫视高清,http://74.48.89.252:34567/as.php?id=szwshd#http://74.48.89.252:34567/bestv.php?id=szwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=shenzhenHD#http://74.48.89.252:34567/cqyx_p.php?id=szws
-广西卫视,http://74.48.89.252:34567/as.php?id=gxws#http://74.48.89.252:34567/bestv.php?id=gxwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=guangxiHD#http://74.48.89.252:34567/cqyx_p.php?id=gxws
-云南卫视,http://74.48.89.252:34567/as.php?id=ynws#http://74.48.89.252:34567/bestv.php?id=ynwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=yunnanSD#http://74.48.89.252:34567/cqyx_p.php?id=ynws
-贵州卫视高清,http://74.48.89.252:34567/as.php?id=gzwshd#http://74.48.89.252:34567/bestv.php?id=gzwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=guizhouHD#http://74.48.89.252:34567/cqyx_p.php?id=gzws
-四川卫视,http://74.48.89.252:34567/as.php?id=scws#http://74.48.89.252:34567/bestv.php?id=scwshd&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=sichuanHD#http://74.48.89.252:34567/cqyx_p.php?id=scws
-新疆卫视,http://74.48.89.252:34567/as.php?id=xjws#http://74.48.89.252:34567/bestv.php?id=xjws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=xinjiangSD#http://74.48.89.252:34567/cqyx_p.php?id=xjws
-兵团卫视,http://74.48.89.252:34567/as.php?id=btws#http://74.48.89.252:34567/bestv.php?id=btws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=bingtuanSD#http://74.48.89.252:34567/cqyx_p.php?id=btws
-西藏卫视,http://74.48.89.252:34567/as.php?id=xzws#http://74.48.89.252:34567/bestv.php?id=xzws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=xizangSD#http://74.48.89.252:34567/cqyx_p.php?id=xzws
-海南卫视,http://74.48.89.252:34567/as.php?id=hanws#http://74.48.89.252:34567/bestv.php?id=hainanwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hainanSD#http://74.48.89.252:34567/cqyx_p.php?id=hinws
+北京卫视高清,http://192.168.1.101:34567/as.php?id=bjwshd#http://192.168.1.101:34567/bestv.php?id=bjwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=beijingHD#http://192.168.1.101:34567/cqyx_p.php?id=bjws
+东方卫视高清,http://192.168.1.101:34567/as.php?id=dfwshd#http://192.168.1.101:34567/bestv.php?id=dfwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=shanghaiHD#http://192.168.1.101:34567/cqyx_p.php?id=dfws
+天津卫视高清,http://192.168.1.101:34567/as.php?id=tjwshd#http://192.168.1.101:34567/bestv.php?id=tjwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=tianjinHD#http://192.168.1.101:34567/cqyx_p.php?id=tjws
+重庆卫视高清,http://192.168.1.101:34567/as.php?id=cqwshd#http://192.168.1.101:34567/bestv.php?id=cqwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=chongqingHD#http://192.168.1.101:34567/cqyx_p.php?id=cqws
+黑龙江卫视高清,http://192.168.1.101:34567/as.php?id=hljwshd#http://192.168.1.101:34567/bestv.php?id=hljwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=heilongjiangHD#http://192.168.1.101:34567/cqyx_p.php?id=hljws
+吉林卫视高清,http://192.168.1.101:34567/as.php?id=jlwshd#http://192.168.1.101:34567/bestv.php?id=jlwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=jilinHD#http://192.168.1.101:34567/cqyx_p.php?id=jlws
+辽宁卫视高清,http://192.168.1.101:34567/as.php?id=lnwshd#http://192.168.1.101:34567/bestv.php?id=lnwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=liaoningHD#http://192.168.1.101:34567/cqyx_p.php?id=lnws
+内蒙古卫视,http://192.168.1.101:34567/as.php?id=nmgws#http://192.168.1.101:34567/bestv.php?id=nmgws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=neimengkuSD#http://192.168.1.101:34567/cqyx_p.php?id=nmws
+宁夏卫视,http://192.168.1.101:34567/as.php?id=nxws#http://192.168.1.101:34567/bestv.php?id=nxws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=ningxia#http://192.168.1.101:34567/cqyx_p.php?id=nxws
+甘肃卫视,http://192.168.1.101:34567/as.php?id=gsws#http://192.168.1.101:34567/bestv.php?id=gswshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
+青海卫视,http://192.168.1.101:34567/as.php?id=qhws#http://192.168.1.101:34567/bestv.php?id=qhws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=qinghaiSD#http://192.168.1.101:34567/cqyx_p.php?id=qhws
+陕西卫视,http://192.168.1.101:34567/as.php?id=xxws#http://192.168.1.101:34567/bestv.php?id=sxwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
+山西卫视,http://192.168.1.101:34567/as.php?id=sxws#http://192.168.1.101:34567/bestv.php?id=shanxiws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=shanxiSD#http://192.168.1.101:34567/cqyx_p.php?id=sxiws
+河北卫视高清,http://192.168.1.101:34567/as.php?id=hbwshd#http://192.168.1.101:34567/bestv.php?id=hbwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hebeiSD#http://192.168.1.101:34567/cqyx_p.php?id=hbws
+山东卫视高清,http://192.168.1.101:34567/as.php?id=sdwshd#http://192.168.1.101:34567/bestv.php?id=sdws8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
+安徽卫视高清,http://192.168.1.101:34567/as.php?id=ahwshd#http://192.168.1.101:34567/bestv.php?id=ahwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=anhuiSD#http://192.168.1.101:34567/cqyx_p.php?id=ahws
+河南卫视,http://192.168.1.101:34567/as.php?id=henws#http://192.168.1.101:34567/bestv.php?id=hnwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=henanHD#http://192.168.1.101:34567/cqyx_p.php?id=hnws
+湖北卫视高清,http://192.168.1.101:34567/as.php?id=hbwshd#http://192.168.1.101:34567/bestv.php?id=hubeiws8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hubeiSD#http://192.168.1.101:34567/cqyx_p.php?id=hubws
+湖南卫视高清,http://192.168.1.101:34567/as.php?id=hnwshd#http://192.168.1.101:34567/bestv.php?id=hunanwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hunanHD#http://192.168.1.101:34567/cqyx_p.php?id=hunws
+江西卫视高清,http://192.168.1.101:34567/as.php?id=jxwshd#http://192.168.1.101:34567/bestv.php?id=jxws8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=jiangxiHD#http://192.168.1.101:34567/cqyx_p.php?id=jxws
+江苏卫视高清,http://192.168.1.101:34567/as.php?id=jswshd#http://192.168.1.101:34567/bestv.php?id=jswshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=jiangsuHD#http://192.168.1.101:34567/cqyx_p.php?id=jsws
+浙江卫视高清,http://192.168.1.101:34567/as.php?id=jjwshd#http://192.168.1.101:34567/bestv.php?id=zjwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=zhejiangHD#http://192.168.1.101:34567/cqyx_p.php?id=zjws
+东南卫视高清,http://192.168.1.101:34567/as.php?id=dnwshd#http://192.168.1.101:34567/bestv.php?id=dnwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=dongnanHD#http://192.168.1.101:34567/cqyx_p.php?id=dnws
+厦门卫视,http://192.168.1.101:34567/as.php?id=xmws#http://192.168.1.101:34567/bestv.php?id=xmws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn
+广东卫视高清,http://192.168.1.101:34567/as.php?id=gdwshd#http://192.168.1.101:34567/bestv.php?id=gdwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=guangdongHD#http://192.168.1.101:34567/cqyx_p.php?id=gdws
+深圳卫视高清,http://192.168.1.101:34567/as.php?id=szwshd#http://192.168.1.101:34567/bestv.php?id=szwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=shenzhenHD#http://192.168.1.101:34567/cqyx_p.php?id=szws
+广西卫视,http://192.168.1.101:34567/as.php?id=gxws#http://192.168.1.101:34567/bestv.php?id=gxwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=guangxiHD#http://192.168.1.101:34567/cqyx_p.php?id=gxws
+云南卫视,http://192.168.1.101:34567/as.php?id=ynws#http://192.168.1.101:34567/bestv.php?id=ynwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=yunnanSD#http://192.168.1.101:34567/cqyx_p.php?id=ynws
+贵州卫视高清,http://192.168.1.101:34567/as.php?id=gzwshd#http://192.168.1.101:34567/bestv.php?id=gzwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=guizhouHD#http://192.168.1.101:34567/cqyx_p.php?id=gzws
+四川卫视,http://192.168.1.101:34567/as.php?id=scws#http://192.168.1.101:34567/bestv.php?id=scwshd&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=sichuanHD#http://192.168.1.101:34567/cqyx_p.php?id=scws
+新疆卫视,http://192.168.1.101:34567/as.php?id=xjws#http://192.168.1.101:34567/bestv.php?id=xjws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=xinjiangSD#http://192.168.1.101:34567/cqyx_p.php?id=xjws
+兵团卫视,http://192.168.1.101:34567/as.php?id=btws#http://192.168.1.101:34567/bestv.php?id=btws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=bingtuanSD#http://192.168.1.101:34567/cqyx_p.php?id=btws
+西藏卫视,http://192.168.1.101:34567/as.php?id=xzws#http://192.168.1.101:34567/bestv.php?id=xzws&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=xizangSD#http://192.168.1.101:34567/cqyx_p.php?id=xzws
+海南卫视,http://192.168.1.101:34567/as.php?id=hanws#http://192.168.1.101:34567/bestv.php?id=hainanwshd8m&ip=8c1e0920c45da70a78884bf9138304e0.v.smtcdns.net&dn=dongfang5g-pc-v51-live.bestvcdn.com.cn#https://live.imxd.top/live.php?id=hainanSD#http://192.168.1.101:34567/cqyx_p.php?id=hinws
 
 其他,#genre#
-CHC高清电影,http://74.48.89.252:34567/as.php?id=chcdyhd#http://74.48.89.252:34567/mycqqp.php?id=chcgq
-CHC家庭影院,http://74.48.89.252:34567/as.php?id=chcjthd#http://74.48.89.252:34567/mycqqp.php?id=chcjt
-CHC动作电影,http://74.48.89.252:34567/as.php?id=chcdzhd#http://74.48.89.252:34567/mycqqp.php?id=chcdz
-精选,http://74.48.89.252:34567/as.php?id=jxpd
-喜剧,http://74.48.89.252:34567/as.php?id=xjpd
-动作,http://74.48.89.252:34567/as.php?id=dzpd
-家庭,http://74.48.89.252:34567/as.php?id=jtpd
-星影,http://74.48.89.252:34567/as.php?id=xypd
-武侠,http://74.48.89.252:34567/as.php?id=wxpd
-足球,http://74.48.89.252:34567/as.php?id=zqpd
-science,http://74.48.89.252:34567/as.php?id=kjpd
-IPTV3+,http://74.48.89.252:34567/as.php?id=iptv3
-IPTV5+,http://74.48.89.252:34567/as.php?id=iptv51
-IPTV5+,http://74.48.89.252:34567/as.php?id=iptv52
-IPTV6+,http://74.48.89.252:34567/as.php?id=iptv6
-IPTV8+,http://74.48.89.252:34567/as.php?id=iptv8
-IPTV谍战剧场,http://74.48.89.252:34567/as.php?id=iptvdz
-IPTV相声小品,http://74.48.89.252:34567/as.php?id=iptvxs
-IPTV热播剧场,http://74.48.89.252:34567/as.php?id=iptvrb
-IPTV经典电影,http://74.48.89.252:34567/as.php?id=iptvjd
-IPTV魅力时尚,http://74.48.89.252:34567/as.php?id=iptvml
-IPTV少儿动画,http://74.48.89.252:34567/as.php?id=iptvdh
+CHC高清电影,http://192.168.1.101:34567/as.php?id=chcdyhd#http://192.168.1.101:34567/mycqqp.php?id=chcgq
+CHC家庭影院,http://192.168.1.101:34567/as.php?id=chcjthd#http://192.168.1.101:34567/mycqqp.php?id=chcjt
+CHC动作电影,http://192.168.1.101:34567/as.php?id=chcdzhd#http://192.168.1.101:34567/mycqqp.php?id=chcdz
+精选,http://192.168.1.101:34567/as.php?id=jxpd
+喜剧,http://192.168.1.101:34567/as.php?id=xjpd
+动作,http://192.168.1.101:34567/as.php?id=dzpd
+家庭,http://192.168.1.101:34567/as.php?id=jtpd
+星影,http://192.168.1.101:34567/as.php?id=xypd
+武侠,http://192.168.1.101:34567/as.php?id=wxpd
+足球,http://192.168.1.101:34567/as.php?id=zqpd
+science,http://192.168.1.101:34567/as.php?id=kjpd
+IPTV3+,http://192.168.1.101:34567/as.php?id=iptv3
+IPTV5+,http://192.168.1.101:34567/as.php?id=iptv51
+IPTV5+,http://192.168.1.101:34567/as.php?id=iptv52
+IPTV6+,http://192.168.1.101:34567/as.php?id=iptv6
+IPTV8+,http://192.168.1.101:34567/as.php?id=iptv8
+IPTV谍战剧场,http://192.168.1.101:34567/as.php?id=iptvdz
+IPTV相声小品,http://192.168.1.101:34567/as.php?id=iptvxs
+IPTV热播剧场,http://192.168.1.101:34567/as.php?id=iptvrb
+IPTV经典电影,http://192.168.1.101:34567/as.php?id=iptvjd
+IPTV魅力时尚,http://192.168.1.101:34567/as.php?id=iptvml
+IPTV少儿动画,http://192.168.1.101:34567/as.php?id=iptvdh
 
 港澳,#genre#
-凤凰香港台,http://74.48.89.252:34567/xsj.php?id=phtv-hk
-凤凰资讯,http://74.48.89.252:34567/xsj.php?id=phtv-info
-凤凰卫视,http://74.48.89.252:34567/xsj.php?id=phtv-cn
-無線新聞,http://74.48.89.252:34567/xsj.php?id=tvb-news
-無線體育財經資訊,http://74.48.89.252:34567/xsj.php?id=tvb-finance
-娛樂新聞,http://74.48.89.252:34567/xsj.php?id=TVB ylxw
-翡翠台,http://74.48.89.252:34567/xsj.php?id=feicui#https://pi.0472.org/tv/fct.php?auth=231122
-明珠台,http://74.48.89.252:34567/xsj.php?id=pearl#https://pi.0472.org/tv/mzt.php?auth=231122
-J2,http://74.48.89.252:34567/xsj.php?id=j2
-星河台,http://74.48.89.252:34567/xsj.php?id=tvb-xinghe
-粵語片,http://74.48.89.252:34567/xsj.php?id=tvb-yueyu
-viutv,http://74.48.89.252:34567/xsj.php?id=viutv
-viutv6,http://74.48.89.252:34567/xsj.php?id=viutv6
-hoytv,http://74.48.89.252:34567/xsj.php?id=hoytv
-hoy資訊,http://74.48.89.252:34567/xsj.php?id=hoy-info
-Now直播台,http://74.48.89.252:34567/xsj.php?id=now-direct
-Now新聞台,http://74.48.89.252:34567/xsj.php?id=now-news
-Now財經台,http://74.48.89.252:34567/xsj.php?id=now-finance
-Now劇集台,http://74.48.89.252:34567/xsj.php?id=nowjjt
-rthk31,http://74.48.89.252:34567/xsj.php?id=rthk31
-rthk32,http://74.48.89.252:34567/xsj.php?id=rthk32
+凤凰香港台,http://192.168.1.101:34567/xsj.php?id=phtv-hk
+凤凰资讯,http://192.168.1.101:34567/xsj.php?id=phtv-info
+凤凰卫视,http://192.168.1.101:34567/xsj.php?id=phtv-cn
+無線新聞,http://192.168.1.101:34567/xsj.php?id=tvb-news
+無線體育財經資訊,http://192.168.1.101:34567/xsj.php?id=tvb-finance
+娛樂新聞,http://192.168.1.101:34567/xsj.php?id=TVB ylxw
+翡翠台,http://192.168.1.101:34567/xsj.php?id=feicui#https://pi.0472.org/tv/fct.php?auth=231122
+明珠台,http://192.168.1.101:34567/xsj.php?id=pearl#https://pi.0472.org/tv/mzt.php?auth=231122
+J2,http://192.168.1.101:34567/xsj.php?id=j2
+星河台,http://192.168.1.101:34567/xsj.php?id=tvb-xinghe
+粵語片,http://192.168.1.101:34567/xsj.php?id=tvb-yueyu
+viutv,http://192.168.1.101:34567/xsj.php?id=viutv
+viutv6,http://192.168.1.101:34567/xsj.php?id=viutv6
+hoytv,http://192.168.1.101:34567/xsj.php?id=hoytv
+hoy資訊,http://192.168.1.101:34567/xsj.php?id=hoy-info
+Now直播台,http://192.168.1.101:34567/xsj.php?id=now-direct
+Now新聞台,http://192.168.1.101:34567/xsj.php?id=now-news
+Now財經台,http://192.168.1.101:34567/xsj.php?id=now-finance
+Now劇集台,http://192.168.1.101:34567/xsj.php?id=nowjjt
+rthk31,http://192.168.1.101:34567/xsj.php?id=rthk31
+rthk32,http://192.168.1.101:34567/xsj.php?id=rthk32
 星空卫视,https://pi.0472.org/tv/startv.php?auth=231122
 香港卫视,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-澳門蓮花,http://74.48.89.252:34567/xsj.php?id=lotustv
-澳門資訊,http://74.48.89.252:34567/xsj.php?id=amzx
-天映HD,http://74.48.89.252:34567/xsj.php?id=celestial
-天映經典,http://74.48.89.252:34567/xsj.php?id=cccm
-ELTA 影劇,http://74.48.89.252:34567/xsj.php?id=elta-drama
-美亞電影,http://74.48.89.252:34567/xsj.php?id=meiah-movies
-千禧經典,http://74.48.89.252:34567/xsj.php?id=tvb-classic
-東森電影,http://74.48.89.252:34567/xsj.php?id=ebc-movie
-緯來電影,http://74.48.89.252:34567/xsj.php?id=videoland-movie
-亞洲劇台,http://74.48.89.252:34567/xsj.php?id=tvb-asia-drama
-華語劇台,http://74.48.89.252:34567/xsj.php?id=tvb-drama
-星衛電影,http://74.48.89.252:34567/xsj.php?id=star-movies
-衛視電影,http://74.48.89.252:34567/xsj.php?id=star-chinese-movies
-龍祥電影,http://74.48.89.252:34567/xsj.php?id=lstime
-好萊塢電影,http://74.48.89.252:34567/xsj.php?id=hollywood-tw
-台視,http://74.48.89.252:34567/xsj.php?id=ttv
-中天新闻,http://74.48.89.252:35455/youtube/oIgbl7t0S_w?quality=1080
-tvbs新闻,http://74.48.89.252:35455/youtube/2mCSYvcfhtc?quality=1080
-东森新闻,http://74.48.89.252:35455/youtube/S5WOGu2HSes?quality=1080
-中视新闻,http://74.48.89.252:35455/youtube/TCnaIE_SAtM?quality=1080
-三立新闻,http://74.48.89.252:35455/youtube/oZdzzvxTfUY?quality=1080
+澳門蓮花,http://192.168.1.101:34567/xsj.php?id=lotustv
+澳門資訊,http://192.168.1.101:34567/xsj.php?id=amzx
+天映HD,http://192.168.1.101:34567/xsj.php?id=celestial
+天映經典,http://192.168.1.101:34567/xsj.php?id=cccm
+ELTA 影劇,http://192.168.1.101:34567/xsj.php?id=elta-drama
+美亞電影,http://192.168.1.101:34567/xsj.php?id=meiah-movies
+千禧經典,http://192.168.1.101:34567/xsj.php?id=tvb-classic
+東森電影,http://192.168.1.101:34567/xsj.php?id=ebc-movie
+緯來電影,http://192.168.1.101:34567/xsj.php?id=videoland-movie
+亞洲劇台,http://192.168.1.101:34567/xsj.php?id=tvb-asia-drama
+華語劇台,http://192.168.1.101:34567/xsj.php?id=tvb-drama
+星衛電影,http://192.168.1.101:34567/xsj.php?id=star-movies
+衛視電影,http://192.168.1.101:34567/xsj.php?id=star-chinese-movies
+龍祥電影,http://192.168.1.101:34567/xsj.php?id=lstime
+好萊塢電影,http://192.168.1.101:34567/xsj.php?id=hollywood-tw
+台視,http://192.168.1.101:34567/xsj.php?id=ttv
+中天新闻,http://192.168.1.101:35455/youtube/oIgbl7t0S_w?quality=1080
+tvbs新闻,http://192.168.1.101:35455/youtube/2mCSYvcfhtc?quality=1080
+东森新闻,http://192.168.1.101:35455/youtube/S5WOGu2HSes?quality=1080
+中视新闻,http://192.168.1.101:35455/youtube/TCnaIE_SAtM?quality=1080
+三立新闻,http://192.168.1.101:35455/youtube/oZdzzvxTfUY?quality=1080
 
 🎬HBO 👉喜,#genre#
 HOB,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10626
@@ -502,142 +502,142 @@ CHC家庭影院,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw
 新片放映厅,http://hms2904nc1972666634.live.aikan.miguvideo.com/wh7f454c46tw1600732348_-360169236/wd-virtuallive5100030975-150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073750&ContentId=265218930&timezone=UTC&mtv_session=63000e2fea84d8a6504746c34e7d4d75&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=b6ef40cfda8ddfec090a09afb9dd2444
 
 百事通源,#genre#
-CCTV-1HD,http://74.48.89.252:34567/mybstv.php?id=cctv1
-CCTV-2HD,http://74.48.89.252:34567/mybstv.php?id=cctv2
-CCTV-3HD,http://74.48.89.252:34567/mybstv.php?id=cctv3
-CCTV-4HD,http://74.48.89.252:34567/mybstv.php?id=cctv4
-CCTV-5HD,http://74.48.89.252:34567/mybstv.php?id=cctv5
-CCTV-5+HD,http://74.48.89.252:34567/mybstv.php?id=cctv5p
-CCTV-5+HD2,http://74.48.89.252:34567/mybstv.php?id=cctv5p2
-CCTV-6HD,http://74.48.89.252:34567/mybstv.php?id=cctv6
-CCTV-7HD,http://74.48.89.252:34567/mybstv.php?id=cctv7
-CCTV-8HD,http://74.48.89.252:34567/mybstv.php?id=cctv8
-CCTV-9HD,http://74.48.89.252:34567/mybstv.php?id=cctv9
-CCTV-10HD,http://74.48.89.252:34567/mybstv.php?id=cctv10
-CCTV-11HD,http://74.48.89.252:34567/mybstv.php?id=cctv11
-CCTV-12HD,http://74.48.89.252:34567/mybstv.php?id=cctv12
-CCTV-13HD,http://74.48.89.252:34567/mybstv.php?id=cctv13
-CCTV-14HD,http://74.48.89.252:34567/mybstv.php?id=cctv14
-CCTV-15HD,http://74.48.89.252:34567/mybstv.php?id=cctv15
-CCTV-16HD,http://74.48.89.252:34567/mybstv.php?id=cctv16
-CCTV-16HD4k,http://74.48.89.252:34567/mybstv.php?id=cctv164k
-CCTV-17HD,http://74.48.89.252:34567/mybstv.php?id=cctv17
-CCTV4K,http://74.48.89.252:34567/mybstv.php?id=cctv4k
-CGTN,http://74.48.89.252:34567/mybstv.php?id=cgtn
-CETV1HD,http://74.48.89.252:34567/mybstv.php?id=cetv1
-CETV2,http://74.48.89.252:34567/mybstv.php?id=cetv2
-CETV4HD,http://74.48.89.252:34567/mybstv.php?id=cetv4
-chcgq,http://74.48.89.252:34567/mybstv.php?id=chcgq
-chcjt,http://74.48.89.252:34567/mybstv.php?id=chcjt
-chcdz,http://74.48.89.252:34567/mybstv.php?id=chcdz
-中国天气,http://74.48.89.252:34567/mybstv.php?id=zgtq
-北京卫视HD,http://74.48.89.252:34567/mybstv.php?id=bjws
-东方卫视HD,http://74.48.89.252:34567/mybstv.php?id=dfws
-天津卫视HD,http://74.48.89.252:34567/mybstv.php?id=tjws
-重庆卫视HD,http://74.48.89.252:34567/mybstv.php?id=cqws
-黑龙江卫视HD,http://74.48.89.252:34567/mybstv.php?id=hljws
-吉林卫视HD,http://74.48.89.252:34567/mybstv.php?id=jlws
-辽宁卫视HD,http://74.48.89.252:34567/mybstv.php?id=lnws
-内蒙古卫视,http://74.48.89.252:34567/mybstv.php?id=nmws
-宁夏卫视,http://74.48.89.252:34567/mybstv.php?id=nxws
-甘肃卫视HD,http://74.48.89.252:34567/mybstv.php?id=gsws
-青海卫视,http://74.48.89.252:34567/mybstv.php?id=qhws
-陕西卫视,http://74.48.89.252:34567/mybstv.php?id=sxws
-河北卫视HD,http://74.48.89.252:34567/mybstv.php?id=hbws
-山西卫视,http://74.48.89.252:34567/mybstv.php?id=sxiws
-山东卫视HD,http://74.48.89.252:34567/mybstv.php?id=sdws
-安徽卫视HD,http://74.48.89.252:34567/mybstv.php?id=ahws
-河南卫视HD,http://74.48.89.252:34567/mybstv.php?id=hnws
-湖北卫视HD,http://74.48.89.252:34567/mybstv.php?id=hubws
-湖南卫视HD,http://74.48.89.252:34567/mybstv.php?id=hunws
-江西卫视HD,http://74.48.89.252:34567/mybstv.php?id=jxws
-江苏卫视HD,http://74.48.89.252:34567/mybstv.php?id=jsws
-浙江卫视HD,http://74.48.89.252:34567/mybstv.php?id=zjws
-东南卫视HD,http://74.48.89.252:34567/mybstv.php?id=dnws
-厦门卫视,http://74.48.89.252:34567/mybstv.php?id=xmws
-海峡卫视,http://74.48.89.252:34567/mybstv.php?id=hxws
-广东卫视HD,http://74.48.89.252:34567/mybstv.php?id=gdws
-深圳卫视HD,http://74.48.89.252:34567/mybstv.php?id=szws
-广西卫视HD,http://74.48.89.252:34567/mybstv.php?id=gxws
-云南卫视HD,http://74.48.89.252:34567/mybstv.php?id=ynws
-贵州卫视,http://74.48.89.252:34567/mybstv.php?id=gzws
-四川卫视,http://74.48.89.252:34567/mybstv.php?id=scws
-康巴卫视,http://74.48.89.252:34567/mybstv.php?id=kbws
-新疆卫视,http://74.48.89.252:34567/mybstv.php?id=xjws
-兵团卫视,http://74.48.89.252:34567/mybstv.php?id=btws
-西藏卫视,http://74.48.89.252:34567/mybstv.php?id=xzws
-西藏藏语卫视,http://74.48.89.252:34567/mybstv.php?id=xzwszy
-海南卫视,http://74.48.89.252:34567/mybstv.php?id=hinws
-三沙卫视,http://74.48.89.252:34567/mybstv.php?id=ssws
-北京纪实科教,http://74.48.89.252:34567/mybstv.php?id=bjjskj
-卡酷少儿,http://74.48.89.252:34567/mybstv.php?id=bjkk
-东方财*,http://74.48.89.252:34567/mybstv.php?id=dfcj
-东方影视,http://74.48.89.252:34567/mybstv.php?id=dfys
-东方购物,http://74.48.89.252:34567/mybstv.php?id=dfgw
-第一财*,http://74.48.89.252:34567/mybstv.php?id=dycj
-上海新闻综合,http://74.48.89.252:34567/mybstv.php?id=shxwzh
-上海都市HD,http://74.48.89.252:34567/mybstv.php?id=shds
-上海纪实人文,http://74.48.89.252:34567/mybstv.php?id=shjsrw
-上海ICS,http://74.48.89.252:34567/mybstv.php?id=shics
-哈哈炫动,http://74.48.89.252:34567/mybstv.php?id=hhxd
-五星体育,http://74.48.89.252:34567/mybstv.php?id=wxty
-法治天地,http://74.48.89.252:34567/mybstv.php?id=fztd
-欢笑剧场,http://74.48.89.252:34567/mybstv.php?id=hxjc
-欢笑剧场4K,http://74.48.89.252:34567/mybstv.php?id=hxjc4k
-都市剧场,http://74.48.89.252:34567/mybstv.php?id=dsjc
-七彩戏剧,http://74.48.89.252:34567/mybstv.php?id=qcxj
-动漫秀场HD,http://74.48.89.252:34567/mybstv.php?id=dmxc
-劲爆体育,http://74.48.89.252:34567/mybstv.php?id=jbty
-新视觉,http://74.48.89.252:34567/mybstv.php?id=xsj
-游戏风云,http://74.48.89.252:34567/mybstv.php?id=yxfy
-生活时尚,http://74.48.89.252:34567/mybstv.php?id=shss
-金色学堂,http://74.48.89.252:34567/mybstv.php?id=jspd
-乐游HD,http://74.48.89.252:34567/mybstv.php?id=qjs
-魅力足球,http://74.48.89.252:34567/mybstv.php?id=mlzq
-上海教育,http://74.48.89.252:34567/mybstv.php?id=shjy
-浦东电视台,http://74.48.89.252:34567/mybstv.php?id=pdtv
-足球频道,http://74.48.89.252:34567/mybstv.php?id=zqpd
-茶频道,http://74.48.89.252:34567/mybstv.php?id=cpd
-快乐垂钓,http://74.48.89.252:34567/mybstv.php?id=klcd
-金鹰纪实,http://74.48.89.252:34567/mybstv.php?id=jyjs
-金鹰卡通,http://74.48.89.252:34567/mybstv.php?id=jykt
-财富天下,http://74.48.89.252:34567/mybstv.php?id=cftx
-福建综合,http://74.48.89.252:34567/mybstv.php?id=fjzh
-福建新闻,http://74.48.89.252:34567/mybstv.php?id=fjxw
-福建电视剧,http://74.48.89.252:34567/mybstv.php?id=fjdsj
-福建经济,http://74.48.89.252:34567/mybstv.php?id=fjjj
-福建文体,http://74.48.89.252:34567/mybstv.php?id=fjwt
-福建少儿,http://74.48.89.252:34567/mybstv.php?id=fjse
-福建旅游,http://74.48.89.252:34567/mybstv.php?id=fjly
-福建乡村振兴公共,http://74.48.89.252:34567/mybstv.php?id=fjgg
-福建教育,http://74.48.89.252:34567/mybstv.php?id=fjjy
-嘉佳卡通,http://74.48.89.252:34567/mybstv.php?id=jjkt
-戏曲精选,http://74.48.89.252:34567/mybstv.php?id=xqjx
-热门综艺,http://74.48.89.252:34567/mybstv.php?id=rmzy
-超级体育,http://74.48.89.252:34567/mybstv.php?id=cjty
-健康养生,http://74.48.89.252:34567/mybstv.php?id=jkys
-百变课堂,http://74.48.89.252:34567/mybstv.php?id=bbkt
-看天下精选,http://74.48.89.252:34567/mybstv.php?id=ktxjx
-华语影院,http://74.48.89.252:34567/mybstv.php?id=hyyy
-电竞天堂,http://74.48.89.252:34567/mybstv.php?id=djtt
-青春动漫,http://74.48.89.252:34567/mybstv.php?id=qcdm
-宝宝动画,http://74.48.89.252:34567/mybstv.php?id=bbdh
-星光影院,http://74.48.89.252:34567/mybstv.php?id=xgyy
-谍战剧场,http://74.48.89.252:34567/mybstv.php?id=dzjc
-全球大片,http://74.48.89.252:34567/mybstv.php?id=qqdp
-热门剧场,http://74.48.89.252:34567/mybstv.php?id=rmjc
-空中课堂一年级,http://74.48.89.252:34567/mybstv.php?id=kzkt1
-空中课堂二年级,http://74.48.89.252:34567/mybstv.php?id=kzkt2
-空中课堂三年级,http://74.48.89.252:34567/mybstv.php?id=kzkt3
-空中课堂四年级,http://74.48.89.252:34567/mybstv.php?id=kzkt4
-空中课堂五年级,http://74.48.89.252:34567/mybstv.php?id=kzkt5
-空中课堂六年级,http://74.48.89.252:34567/mybstv.php?id=kzkt6
-空中课堂七年级,http://74.48.89.252:34567/mybstv.php?id=kzkt7
-空中课堂八年级,http://74.48.89.252:34567/mybstv.php?id=kzkt8
-空中课堂九年级,http://74.48.89.252:34567/mybstv.php?id=kzkt9
-空中课堂高一,http://74.48.89.252:34567/mybstv.php?id=kzktg1
-空中课堂高二,http://74.48.89.252:34567/mybstv.php?id=kzktg2
-空中课堂高三,http://74.48.89.252:34567/mybstv.php?id=kzktg3
+CCTV-1HD,http://192.168.1.101:34567/mybstv.php?id=cctv1
+CCTV-2HD,http://192.168.1.101:34567/mybstv.php?id=cctv2
+CCTV-3HD,http://192.168.1.101:34567/mybstv.php?id=cctv3
+CCTV-4HD,http://192.168.1.101:34567/mybstv.php?id=cctv4
+CCTV-5HD,http://192.168.1.101:34567/mybstv.php?id=cctv5
+CCTV-5+HD,http://192.168.1.101:34567/mybstv.php?id=cctv5p
+CCTV-5+HD2,http://192.168.1.101:34567/mybstv.php?id=cctv5p2
+CCTV-6HD,http://192.168.1.101:34567/mybstv.php?id=cctv6
+CCTV-7HD,http://192.168.1.101:34567/mybstv.php?id=cctv7
+CCTV-8HD,http://192.168.1.101:34567/mybstv.php?id=cctv8
+CCTV-9HD,http://192.168.1.101:34567/mybstv.php?id=cctv9
+CCTV-10HD,http://192.168.1.101:34567/mybstv.php?id=cctv10
+CCTV-11HD,http://192.168.1.101:34567/mybstv.php?id=cctv11
+CCTV-12HD,http://192.168.1.101:34567/mybstv.php?id=cctv12
+CCTV-13HD,http://192.168.1.101:34567/mybstv.php?id=cctv13
+CCTV-14HD,http://192.168.1.101:34567/mybstv.php?id=cctv14
+CCTV-15HD,http://192.168.1.101:34567/mybstv.php?id=cctv15
+CCTV-16HD,http://192.168.1.101:34567/mybstv.php?id=cctv16
+CCTV-16HD4k,http://192.168.1.101:34567/mybstv.php?id=cctv164k
+CCTV-17HD,http://192.168.1.101:34567/mybstv.php?id=cctv17
+CCTV4K,http://192.168.1.101:34567/mybstv.php?id=cctv4k
+CGTN,http://192.168.1.101:34567/mybstv.php?id=cgtn
+CETV1HD,http://192.168.1.101:34567/mybstv.php?id=cetv1
+CETV2,http://192.168.1.101:34567/mybstv.php?id=cetv2
+CETV4HD,http://192.168.1.101:34567/mybstv.php?id=cetv4
+chcgq,http://192.168.1.101:34567/mybstv.php?id=chcgq
+chcjt,http://192.168.1.101:34567/mybstv.php?id=chcjt
+chcdz,http://192.168.1.101:34567/mybstv.php?id=chcdz
+中国天气,http://192.168.1.101:34567/mybstv.php?id=zgtq
+北京卫视HD,http://192.168.1.101:34567/mybstv.php?id=bjws
+东方卫视HD,http://192.168.1.101:34567/mybstv.php?id=dfws
+天津卫视HD,http://192.168.1.101:34567/mybstv.php?id=tjws
+重庆卫视HD,http://192.168.1.101:34567/mybstv.php?id=cqws
+黑龙江卫视HD,http://192.168.1.101:34567/mybstv.php?id=hljws
+吉林卫视HD,http://192.168.1.101:34567/mybstv.php?id=jlws
+辽宁卫视HD,http://192.168.1.101:34567/mybstv.php?id=lnws
+内蒙古卫视,http://192.168.1.101:34567/mybstv.php?id=nmws
+宁夏卫视,http://192.168.1.101:34567/mybstv.php?id=nxws
+甘肃卫视HD,http://192.168.1.101:34567/mybstv.php?id=gsws
+青海卫视,http://192.168.1.101:34567/mybstv.php?id=qhws
+陕西卫视,http://192.168.1.101:34567/mybstv.php?id=sxws
+河北卫视HD,http://192.168.1.101:34567/mybstv.php?id=hbws
+山西卫视,http://192.168.1.101:34567/mybstv.php?id=sxiws
+山东卫视HD,http://192.168.1.101:34567/mybstv.php?id=sdws
+安徽卫视HD,http://192.168.1.101:34567/mybstv.php?id=ahws
+河南卫视HD,http://192.168.1.101:34567/mybstv.php?id=hnws
+湖北卫视HD,http://192.168.1.101:34567/mybstv.php?id=hubws
+湖南卫视HD,http://192.168.1.101:34567/mybstv.php?id=hunws
+江西卫视HD,http://192.168.1.101:34567/mybstv.php?id=jxws
+江苏卫视HD,http://192.168.1.101:34567/mybstv.php?id=jsws
+浙江卫视HD,http://192.168.1.101:34567/mybstv.php?id=zjws
+东南卫视HD,http://192.168.1.101:34567/mybstv.php?id=dnws
+厦门卫视,http://192.168.1.101:34567/mybstv.php?id=xmws
+海峡卫视,http://192.168.1.101:34567/mybstv.php?id=hxws
+广东卫视HD,http://192.168.1.101:34567/mybstv.php?id=gdws
+深圳卫视HD,http://192.168.1.101:34567/mybstv.php?id=szws
+广西卫视HD,http://192.168.1.101:34567/mybstv.php?id=gxws
+云南卫视HD,http://192.168.1.101:34567/mybstv.php?id=ynws
+贵州卫视,http://192.168.1.101:34567/mybstv.php?id=gzws
+四川卫视,http://192.168.1.101:34567/mybstv.php?id=scws
+康巴卫视,http://192.168.1.101:34567/mybstv.php?id=kbws
+新疆卫视,http://192.168.1.101:34567/mybstv.php?id=xjws
+兵团卫视,http://192.168.1.101:34567/mybstv.php?id=btws
+西藏卫视,http://192.168.1.101:34567/mybstv.php?id=xzws
+西藏藏语卫视,http://192.168.1.101:34567/mybstv.php?id=xzwszy
+海南卫视,http://192.168.1.101:34567/mybstv.php?id=hinws
+三沙卫视,http://192.168.1.101:34567/mybstv.php?id=ssws
+北京纪实科教,http://192.168.1.101:34567/mybstv.php?id=bjjskj
+卡酷少儿,http://192.168.1.101:34567/mybstv.php?id=bjkk
+东方财*,http://192.168.1.101:34567/mybstv.php?id=dfcj
+东方影视,http://192.168.1.101:34567/mybstv.php?id=dfys
+东方购物,http://192.168.1.101:34567/mybstv.php?id=dfgw
+第一财*,http://192.168.1.101:34567/mybstv.php?id=dycj
+上海新闻综合,http://192.168.1.101:34567/mybstv.php?id=shxwzh
+上海都市HD,http://192.168.1.101:34567/mybstv.php?id=shds
+上海纪实人文,http://192.168.1.101:34567/mybstv.php?id=shjsrw
+上海ICS,http://192.168.1.101:34567/mybstv.php?id=shics
+哈哈炫动,http://192.168.1.101:34567/mybstv.php?id=hhxd
+五星体育,http://192.168.1.101:34567/mybstv.php?id=wxty
+法治天地,http://192.168.1.101:34567/mybstv.php?id=fztd
+欢笑剧场,http://192.168.1.101:34567/mybstv.php?id=hxjc
+欢笑剧场4K,http://192.168.1.101:34567/mybstv.php?id=hxjc4k
+都市剧场,http://192.168.1.101:34567/mybstv.php?id=dsjc
+七彩戏剧,http://192.168.1.101:34567/mybstv.php?id=qcxj
+动漫秀场HD,http://192.168.1.101:34567/mybstv.php?id=dmxc
+劲爆体育,http://192.168.1.101:34567/mybstv.php?id=jbty
+新视觉,http://192.168.1.101:34567/mybstv.php?id=xsj
+游戏风云,http://192.168.1.101:34567/mybstv.php?id=yxfy
+生活时尚,http://192.168.1.101:34567/mybstv.php?id=shss
+金色学堂,http://192.168.1.101:34567/mybstv.php?id=jspd
+乐游HD,http://192.168.1.101:34567/mybstv.php?id=qjs
+魅力足球,http://192.168.1.101:34567/mybstv.php?id=mlzq
+上海教育,http://192.168.1.101:34567/mybstv.php?id=shjy
+浦东电视台,http://192.168.1.101:34567/mybstv.php?id=pdtv
+足球频道,http://192.168.1.101:34567/mybstv.php?id=zqpd
+茶频道,http://192.168.1.101:34567/mybstv.php?id=cpd
+快乐垂钓,http://192.168.1.101:34567/mybstv.php?id=klcd
+金鹰纪实,http://192.168.1.101:34567/mybstv.php?id=jyjs
+金鹰卡通,http://192.168.1.101:34567/mybstv.php?id=jykt
+财富天下,http://192.168.1.101:34567/mybstv.php?id=cftx
+福建综合,http://192.168.1.101:34567/mybstv.php?id=fjzh
+福建新闻,http://192.168.1.101:34567/mybstv.php?id=fjxw
+福建电视剧,http://192.168.1.101:34567/mybstv.php?id=fjdsj
+福建经济,http://192.168.1.101:34567/mybstv.php?id=fjjj
+福建文体,http://192.168.1.101:34567/mybstv.php?id=fjwt
+福建少儿,http://192.168.1.101:34567/mybstv.php?id=fjse
+福建旅游,http://192.168.1.101:34567/mybstv.php?id=fjly
+福建乡村振兴公共,http://192.168.1.101:34567/mybstv.php?id=fjgg
+福建教育,http://192.168.1.101:34567/mybstv.php?id=fjjy
+嘉佳卡通,http://192.168.1.101:34567/mybstv.php?id=jjkt
+戏曲精选,http://192.168.1.101:34567/mybstv.php?id=xqjx
+热门综艺,http://192.168.1.101:34567/mybstv.php?id=rmzy
+超级体育,http://192.168.1.101:34567/mybstv.php?id=cjty
+健康养生,http://192.168.1.101:34567/mybstv.php?id=jkys
+百变课堂,http://192.168.1.101:34567/mybstv.php?id=bbkt
+看天下精选,http://192.168.1.101:34567/mybstv.php?id=ktxjx
+华语影院,http://192.168.1.101:34567/mybstv.php?id=hyyy
+电竞天堂,http://192.168.1.101:34567/mybstv.php?id=djtt
+青春动漫,http://192.168.1.101:34567/mybstv.php?id=qcdm
+宝宝动画,http://192.168.1.101:34567/mybstv.php?id=bbdh
+星光影院,http://192.168.1.101:34567/mybstv.php?id=xgyy
+谍战剧场,http://192.168.1.101:34567/mybstv.php?id=dzjc
+全球大片,http://192.168.1.101:34567/mybstv.php?id=qqdp
+热门剧场,http://192.168.1.101:34567/mybstv.php?id=rmjc
+空中课堂一年级,http://192.168.1.101:34567/mybstv.php?id=kzkt1
+空中课堂二年级,http://192.168.1.101:34567/mybstv.php?id=kzkt2
+空中课堂三年级,http://192.168.1.101:34567/mybstv.php?id=kzkt3
+空中课堂四年级,http://192.168.1.101:34567/mybstv.php?id=kzkt4
+空中课堂五年级,http://192.168.1.101:34567/mybstv.php?id=kzkt5
+空中课堂六年级,http://192.168.1.101:34567/mybstv.php?id=kzkt6
+空中课堂七年级,http://192.168.1.101:34567/mybstv.php?id=kzkt7
+空中课堂八年级,http://192.168.1.101:34567/mybstv.php?id=kzkt8
+空中课堂九年级,http://192.168.1.101:34567/mybstv.php?id=kzkt9
+空中课堂高一,http://192.168.1.101:34567/mybstv.php?id=kzktg1
+空中课堂高二,http://192.168.1.101:34567/mybstv.php?id=kzktg2
+空中课堂高三,http://192.168.1.101:34567/mybstv.php?id=kzktg3
 
 iptv组播,#genre#
 广西卫视,http://124.227.202.216:8888/udp/239.81.0.107:4056
