@@ -111,8 +111,8 @@ do
 		d=$b1","$b2
 	fi
 done
-echo $d >>$$tvfile
-echo "" >>$$tvfile
+echo $d >>$tvfile
+echo "" >>$tvfile
 
 #获取酒店源央视及卫视
 case $# in
