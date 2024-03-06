@@ -105,7 +105,7 @@ do
 	else
 	    # if [ "$c" != "" ];then
         if [ "$b1" != "其他频道" ];then
-		    echo $d >>$$tvfile
+		    echo $d >>$tvfile
 		fi
 	    c=$b1
 		d=$b1","$b2
