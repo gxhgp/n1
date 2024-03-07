@@ -1,5 +1,8 @@
 name: getTvAndCfip
-on: push
+on:
+  push:
+  schedule:
+    - cron: '50 7  * * *'
 jobs:
   execute_script:
     runs-on: ubuntu-latest
