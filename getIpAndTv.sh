@@ -167,6 +167,7 @@ case $# in
 esac
 # cat /root/php/tvsource/local.txt $hk $ot $chldir/$fn.txt > /root/php/tvsource/tv.txt
 
+mkdir cfip
 mkdir cfip/cfip
 file_path3=cfip
 curl -so $file_path3/cfip/tmp.zip https://zip.baipiao.eu.org && unzip $file_path3/cfip/tmp.zip -d $file_path3/cfip
