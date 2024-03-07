@@ -15,11 +15,11 @@ jobs:
       - name: Execute script
         run: |
           bash getIpAndTv.sh
-          cat tv/rm.txt
-          echo ${{ secrets.GITHUB_TOKEN }}
 
       - name : Modify text files
         run: |
+          cat tv/rm.txt
+          cat rm.txt
           cat tv/rm.txt >rm.txt
           cat cfip/ip.txt >ip.txt
         env:
