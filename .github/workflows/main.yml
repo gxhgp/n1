@@ -1,0 +1,24 @@
+name: getTvAndCfip
+on: push
+jobs:
+  execute_script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Installation depends
+        run: |
+          sudo -E apt-get -qq update
+          sudo -E apt-get -qq install curl unzip
+
+      - name: Execute script
+        run: |
+		  bash getIpAndTv.sh
+
+      - name : Modify text files
+        run: |
+          cat tv/tx.txt >rm.txt
+		  cat cfip/ip.txt >ip.txt
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
