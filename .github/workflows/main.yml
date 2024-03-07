@@ -20,5 +20,10 @@ jobs:
         run: |
           cat tv/rm.txt >rm.txt
           cat cfip/ip.txt >ip.txt
+          git config --local user.email "hkzc12@163.com"
+          git config --local user.name "gxhgp"
+          git add .
+          git commit *.txt -m "Add generated file"
+          git push -f
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
