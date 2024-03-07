@@ -18,8 +18,6 @@ jobs:
 
       - name : Modify text files
         run: |
-          cat tv/rm.txt
-          cat rm.txt
           cat tv/rm.txt >rm.txt
           cat cfip/ip.txt >ip.txt
         env:
