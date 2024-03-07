@@ -14,11 +14,11 @@ jobs:
 
       - name: Execute script
         run: |
-	  bash getIpAndTv.sh
+          bash getIpAndTv.sh
 
       - name : Modify text files
         run: |
           cat tv/tx.txt >rm.txt
-	  cat cfip/ip.txt >ip.txt
+          cat cfip/ip.txt >ip.txt
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
