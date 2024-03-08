@@ -176,9 +176,4 @@ for i in `ls -l $file_path3/cfip/*8080* |awk -F " " '{print $9}'`
 do
   cat $i >> $file_path3/ip.txt
 done
-for i in `ls -l $file_path3/cfip/*-443* |awk -F " " '{print $9}'`
-do
-  cat $i >> $file_path3/ip.txt
-done
-
 rm -rf $file_path3/cfip/*
