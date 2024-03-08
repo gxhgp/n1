@@ -1,6 +1,5 @@
 name: getTvAndCfip
 on:
-  push:
   schedule:
     - cron: '50 7  * * *'
 jobs:
