@@ -1,6 +1,6 @@
 name: getTvAndCfip
 on:
-  push:
+  #push:
   schedule:
     - cron: '50 7  * * *'
 jobs:
@@ -17,13 +17,13 @@ jobs:
 
       - name: Execute script
         run: |
-          #bash getipAtv.sh
+          bash getipAtv.sh
 
       - name : Modify text files
         run: |
-          #cat tv/rm.txt >rm.txt
-          #cat cfip/ip.txt >ip.txt
-          sed -i "s/\r//" getipAtv.sh
+          cat tv/rm.txt >rm.txt
+          cat cfip/ip.txt >ip.txt
+          #sed -i "s/\r//" getipAtv.sh
           git config --local user.email "hkzc12@163.com"
           git config --local user.name "gxhgp"
           git add .
