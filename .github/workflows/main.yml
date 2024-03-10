@@ -17,7 +17,6 @@ jobs:
 
       - name: Execute script
         run: |
-          #bash getIpAndTv.sh
           bash getipAtv.sh
 
       - name : Modify text files
