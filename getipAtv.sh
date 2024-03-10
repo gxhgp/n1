@@ -1,7 +1,5 @@
 #!/bin/bash
-
-
-address="search=%E5%B9%BF%E8%A5%BF&Submit=+" 
+# address="search=%E5%B9%BF%E8%A5%BF&Submit=+" 
 getipurl="http://tonkiang.us/hoteliptv.php"
 # getipurl="https://www.foodieguide.com/iptvsearch/hoteliptv.php"
 # getvurl="http://tonkiang.us/9dlist2.php?s="
@@ -74,64 +72,64 @@ city=("%E8%B4%B5%E6%B8%AF" "%E7%8E%89%E6%9E%97")
 for cy in "${city[@]}"
 do
     address="search=$cy&Submit=+"
-	curl -so $file_path2 -X POST -d $address $getipurl
-	count1=0
-	while [ $count1 -lt 120 ]; do
-		if [ -e "$file_path2" ]; then
-			break
-		else
-			count1=$((count1 + 1))
-		fi
-		sleep 1
-	done
-	ipAport=`cat $file_path2|grep -v "盗链"|grep 'hotellist'|awk -F "<" '{print $4}'|awk -F ">" '{print $2}'`
-	chanl=`cat $file_path2|grep '频道数'|awk -F "<" '{print $3}'|awk -F ">" '{print $2}'`
-	status=`cat $file_path2|grep '<div style="color'|awk -F "<" '{print $2}'|awk -F ">" '{print $2}'`
-	adr=`cat $file_path2|grep -E '电信|联通|移动|adsl'|sed 's/ //g'`
-	undt=-1
-	unip="1.1.1.1"
-	tldt=-1
-	tlip="1.1.1.1"
-	for i in `paste -d',' <(echo "$ipAport") <(echo "$chanl") <(echo "$status") <(echo "$adr")`
-	do
+    curl -so $file_path2 -X POST -d $address $getipurl
+    count1=0 
+    while [ $count1 -lt 120 ]; do
+        if [ -e "$file_path2" ]; then
+            break
+        else
+            count1=$((count1 + 1))
+        fi
+        sleep 1
+    done
+    ipAport=`cat $file_path2|grep -v "盗链"|grep 'hotellist'|awk -F "<" '{print $4}'|awk -F ">" '{print $2}'`
+    chanl=`cat $file_path2|grep '频道数'|awk -F "<" '{print $3}'|awk -F ">" '{print $2}'`
+    status=`cat $file_path2|grep '<div style="color'|awk -F "<" '{print $2}'|awk -F ">" '{print $2}'`
+    adr=`cat $file_path2|grep -E '电信|联通|移动|adsl'|sed 's/ //g'`
+    undt=-1
+    unip="1.1.1.1"
+    tldt=-1
+    tlip="1.1.1.1"
+    for i in `paste -d',' <(echo "$ipAport") <(echo "$chanl") <(echo "$status") <(echo "$adr")`
+    do
         # echo $i
-		if ! echo $i  | grep -Eq "失效|adsl" ; then
-		    if echo $i  | grep -q "酒店" ; then
-			    name=`echo $i|awk -F"," '{print $4}'|sed 's/\\r//g'`
-				alive=`echo $i|awk -F"," '{print $3}'|awk -F"活" '{print $2}'|awk -F"天" '{print $1}'|awk '{print int($1)}'`
-				ipp=`echo $i|awk -F"," '{print $1}'`
-				if [[ $name =~ "联通" ]];then
-					if [[ $alive -gt $undt ]];then
-					    unip=$ipp
-						undt=$alive
-					fi
-				elif [[ $name =~ "电信" ]];then
-				    if [[ $alive -gt $tldt ]];then
-					    tlip=$ipp
-						tldt=$alive
-					fi
-				else
-				    :
-				fi
-			fi
+        if ! echo $i  | grep -Eq "失效|adsl" ; then
+            if echo $i  | grep -q "酒店" ; then
+                name=`echo $i|awk -F"," '{print $4}'|sed 's/\\r//g'`
+                alive=`echo $i|awk -F"," '{print $3}'|awk -F"活" '{print $2}'|awk -F"天" '{print $1}'|awk '{print int($1)}'`
+		ipp=`echo $i|awk -F"," '{print $1}'`
+                if [[ $name =~ "联通" ]];then
+                    if [[ $alive -gt $undt ]];then
+		        unip=$ipp
+                        undt=$alive
+                    fi
+		elif [[ $name =~ "电信" ]];then
+		    if [[ $alive -gt $tldt ]];then
+			tlip=$ipp
+			tldt=$alive
+		    fi
+		else
+		    :
 		fi
+            fi
+        fi
     done
 	if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
 	    if [ $unip != "1.1.1.1" ];then
 	        sed -i "s/110\.72\.79\.71\:808/$unip/g" $tvfile
-		fi
-		if [ $tlip != "1.1.1.1" ];then
-		    sed -i "s/171\.108\.239\.8\:8181/$tlip/g" $tvfile
-		fi
+	    fi
+	    if [ $tlip != "1.1.1.1" ];then
+		sed -i "s/171\.108\.239\.8\:8181/$tlip/g" $tvfile
+	    fi
 	else
 	    if [ $unip != "1.1.1.1" ];then
 	        sed -i "s/171\.38\.41\.71\:8181/$unip/g" $tvfile
-		fi
-		if [ $tlip != "1.1.1.1" ];then
-		    sed -i "s/180\.142\.87\.159\:8181/$tlip/g" $tvfile
-		fi
+	    fi
+	    if [ $tlip != "1.1.1.1" ];then
+		sed -i "s/180\.142\.87\.159\:8181/$tlip/g" $tvfile
+	    fi
 	fi
-rm $file_path2
+    rm $file_path2
 done
 
 mkdir cfip
