@@ -10,7 +10,7 @@ file_path2=tv/tmp2.txt
 chldir=tv
 tvfile=tv/rm.txt
 fn=`date +%m%d`
-
+echo "11111111111111111111111"
 mkdir tv
 #获取香港节目
 curl -so $file_path2 https://epg.pw/test_channels.m3u
@@ -37,7 +37,7 @@ do
 done
 echo $d >>$tvfile
 echo "" >>$tvfile
-
+echo "22222222222222222222222"
 #获取其他节目
 flag=0
 curl -so $file_path2 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
