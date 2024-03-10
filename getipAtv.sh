@@ -15,6 +15,7 @@ mkdir tv
 #获取香港节目
 curl -so $file_path2 https://epg.pw/test_channels.m3u
 tvgc=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $6}'|sed 's/ //g'`
+echo $tvgc
 tvgn=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $2}'|sed 's/ //g'`
 tvgu=`cat $file_path2|grep -v "^#"|grep ":"`
 c=""
