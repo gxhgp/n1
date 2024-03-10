@@ -4,8 +4,8 @@ getipurl="http://tonkiang.us/hoteliptv.php"
 # getipurl="https://www.foodieguide.com/iptvsearch/hoteliptv.php"
 # getvurl="http://tonkiang.us/9dlist2.php?s="
 # getvurl="https://www.foodieguide.com/iptvsearch/alllist.php?s=$1"
-file_path1=tv/tmp1.txt
-file_path2=tv/tmp2.txt
+file_path1="tv/tmp1.txt"
+file_path2="tv/tmp2.txt"
 # file_path2=/root/php/tvsource/tmp2.txt
 chldir=tv
 tvfile=tv/rm.txt
@@ -14,10 +14,10 @@ echo "11111111111111111111111"
 mkdir tv
 #获取香港节目
 curl -so $file_path2 https://epg.pw/test_channels.m3u
-tvgc=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $6}'|sed 's/ //g'`
+tvgc=`cat $file_path2 |grep "EXTINF:"|awk -F '"' '{print $6}'|sed 's/ //g'`
 echo $tvgc
-tvgn=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $2}'|sed 's/ //g'`
-tvgu=`cat $file_path2|grep -v "^#"|grep ":"`
+tvgn=`cat $file_path2 |grep "EXTINF:"|awk -F '"' '{print $2}'|sed 's/ //g'`
+tvgu=`cat $file_path2 |grep -v "^#"|grep ":"`
 c=""
 d=""
 echo "香港,#genre#">$tvfile
