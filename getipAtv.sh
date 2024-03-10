@@ -4,37 +4,36 @@ getipurl="http://tonkiang.us/hoteliptv.php"
 # getipurl="https://www.foodieguide.com/iptvsearch/hoteliptv.php"
 # getvurl="http://tonkiang.us/9dlist2.php?s="
 # getvurl="https://www.foodieguide.com/iptvsearch/alllist.php?s=$1"
-file_path1="tv/tmp1.txt"
-file_path2="tv/tmp2.txt"
+file_path1=tv/tmp1.txt
+file_path2=tv/tmp2.txt
 # file_path2=/root/php/tvsource/tmp2.txt
 chldir=tv
 tvfile=tv/rm.txt
 fn=`date +%m%d`
-echo "11111111111111111111111"
+
 mkdir tv
 #获取香港节目
 curl -so $file_path2 https://epg.pw/test_channels.m3u
-tvgc=`cat $file_path2 |grep "EXTINF:"|awk -F '"' '{print $6}'|sed 's/ //g'`
-echo $tvgc
-tvgn=`cat $file_path2 |grep "EXTINF:"|awk -F '"' '{print $2}'|sed 's/ //g'`
-tvgu=`cat $file_path2 |grep -v "^#"|grep ":"`
+tvgc=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $6}'|sed 's/ //g'`
+tvgn=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $2}'|sed 's/ //g'`
+tvgu=`cat $file_path2|grep -v "^#"|grep ":"`
 c=""
 d=""
 echo "香港,#genre#">$tvfile
 for i in $(paste -d',' <(echo "$tvgc") <(echo "$tvgn") <(echo "$tvgu")|grep "香港")
 do
     b1=`echo $i|awk -F ',' '{print $2}'`
-	b2=`echo $i|awk -F ',' '{print $3}'`
-	if [ "$c" == "$b1" ];then
-	    d=$d"#"$b2
-		# echo "$d"
-	else
-	    if [ "$c" != "" ];then
-		    echo $d >>$tvfile
-		fi
-	    c=$b1
-		d=$b1","$b2
-	fi
+    b2=`echo $i|awk -F ',' '{print $3}'`
+    if [ "$c" == "$b1" ];then
+        d=$d"#"$b2
+        # echo "$d"
+    else
+        if [ "$c" != "" ];then
+            echo $d >>$tvfile
+        fi
+        c=$b1
+        d=$b1","$b2
+    fi
 done
 echo $d >>$tvfile
 echo "" >>$tvfile
@@ -46,35 +45,35 @@ curl -so $file_path2 https://raw.githubusercontent.com/ssili126/tv/main/itvlist.
 for i in `cat $file_path2|sed 's/\?.*//g'`
 do
     b1=`echo $i|awk -F ',' '{print $1}'`
-	b2=`echo $i|awk -F ',' '{print $2}'`
-	if [ "$b1" == "其他频道" ];then
-	    flag=1
-	fi
-	if [ $flag -eq 0 ];then
-	    continue
-	fi
-	if [ "$c" == "$b1" ];then
-	    d=$d"#"$b2
-		# echo "$d"
-	else
-	    # if [ "$c" != "" ];then
+    b2=`echo $i|awk -F ',' '{print $2}'`
+    if [ "$b1" == "其他频道" ];then
+        flag=1
+    fi
+    if [ $flag -eq 0 ];then
+        continue
+    fi
+    if [ "$c" == "$b1" ];then
+        d=$d"#"$b2
+        # echo "$d"
+    else
+        # if [ "$c" != "" ];then
         if [ "$b1" != "其他频道" ];then
-		    echo $d >>$tvfile
-		fi
-	    c=$b1
-		d=$b1","$b2
-	fi
+            echo $d >>$tvfile
+        fi
+        c=$b1
+        d=$b1","$b2
+    fi
 done
 echo $d >>$tvfile
 echo "" >>$tvfile
-echo "9999999999999999"
+
 cat tvtmpl.txt >> $tvfile
 city=("%E8%B4%B5%E6%B8%AF" "%E7%8E%89%E6%9E%97")
 for cy in "${city[@]}"
 do
     address="search=$cy&Submit=+"
     curl -so $file_path2 -X POST -d $address $getipurl
-    count1=0 
+    count1=0
     while [ $count1 -lt 120 ]; do
         if [ -e "$file_path2" ]; then
             break
@@ -98,38 +97,38 @@ do
             if echo $i  | grep -q "酒店" ; then
                 name=`echo $i|awk -F"," '{print $4}'|sed 's/\\r//g'`
                 alive=`echo $i|awk -F"," '{print $3}'|awk -F"活" '{print $2}'|awk -F"天" '{print $1}'|awk '{print int($1)}'`
-		ipp=`echo $i|awk -F"," '{print $1}'`
+                ipp=`echo $i|awk -F"," '{print $1}'`
                 if [[ $name =~ "联通" ]];then
                     if [[ $alive -gt $undt ]];then
-		        unip=$ipp
+                        unip=$ipp
                         undt=$alive
                     fi
-		elif [[ $name =~ "电信" ]];then
-		    if [[ $alive -gt $tldt ]];then
-			tlip=$ipp
-			tldt=$alive
-		    fi
-		else
-		    :
-		fi
+                elif [[ $name =~ "电信" ]];then
+                    if [[ $alive -gt $tldt ]];then
+                        tlip=$ipp
+                        tldt=$alive
+                    fi
+                else
+                    :
+                fi
             fi
         fi
     done
-	if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
-	    if [ $unip != "1.1.1.1" ];then
-	        sed -i "s/110\.72\.79\.71\:808/$unip/g" $tvfile
-	    fi
-	    if [ $tlip != "1.1.1.1" ];then
-		sed -i "s/171\.108\.239\.8\:8181/$tlip/g" $tvfile
-	    fi
-	else
-	    if [ $unip != "1.1.1.1" ];then
-	        sed -i "s/171\.38\.41\.71\:8181/$unip/g" $tvfile
-	    fi
-	    if [ $tlip != "1.1.1.1" ];then
-		sed -i "s/180\.142\.87\.159\:8181/$tlip/g" $tvfile
-	    fi
-	fi
+    if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
+        if [ $unip != "1.1.1.1" ];then
+            sed -i "s/110\.72\.79\.71\:808/$unip/g" $tvfile
+        fi
+        if [ $tlip != "1.1.1.1" ];then
+            sed -i "s/171\.108\.239\.8\:8181/$tlip/g" $tvfile
+        fi
+    else
+        if [ $unip != "1.1.1.1" ];then
+            sed -i "s/171\.38\.41\.71\:8181/$unip/g" $tvfile
+        fi
+        if [ $tlip != "1.1.1.1" ];then
+            sed -i "s/180\.142\.87\.159\:8181/$tlip/g" $tvfile
+        fi
+    fi
     rm $file_path2
 done
 
