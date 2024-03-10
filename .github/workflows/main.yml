@@ -1,5 +1,6 @@
 name: getTvAndCfip
 on:
+  push:
   schedule:
     - cron: '50 7  * * *'
 jobs:
@@ -16,7 +17,8 @@ jobs:
 
       - name: Execute script
         run: |
-          bash getIpAndTv.sh
+          #bash getIpAndTv.sh
+          bash getipAtv.sh
 
       - name : Modify text files
         run: |
