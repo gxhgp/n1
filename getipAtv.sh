@@ -17,6 +17,7 @@ curl -so $file_path2 https://epg.pw/test_channels.m3u
 tvgc=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $6}'|sed 's/ //g'`
 tvgn=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $2}'|sed 's/ //g'`
 tvgu=`cat $file_path2|grep -v "^#"|grep ":"`
+echo "333333333333333333333333333"
 c=""
 d=""
 echo "香港,#genre#">$tvfile
