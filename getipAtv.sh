@@ -1,4 +1,51 @@
 #!/bin/bash
+getadr(){
+    case $# in
+	2)
+	    n=$2
+	;;
+	*)
+		n="未名"
+	;;
+	esac
+	  
+	# url="http://tonkiang.us/9dlist2.php?s=$1&c=%E5%8C%97%E4%BA%AC"
+	url="http://tonkiang.us/9dlist2.php?s=$1&c=false"
+	# url="https://www.foodieguide.com/iptvsearch/alllist.php?s=$1"
+	# url= $getvurl$1
+	# echo $file_path
+	# exit
+	# echo $url
+	curl -so $file_path1 $url
+	count2=0
+	while [ $count2 -lt 120 ]; do
+		if [ -e "$file_path1" ]; then
+			break
+		else
+			count2=$((count2 + 1))
+		fi
+		sleep 1
+	done
+	if grep -q "暂时失效" $file_path1; then
+		return 5
+	fi
+    # echo "99999999999999"
+	result1=`cat $file_path1|grep "float: left"|awk -F ">" '{print $2}'|awk -F "<" '{print $1}'`
+	result2=`cat $file_path1|grep 'copyto("'|awk -F '"' '{print $8}'`
+	combined_result=$(paste -d',' <(echo "$result1") <(echo "$result2"))
+	echo "$n,#genre#" >> $tvfile
+	# for i in `paste -d',' <(echo "$result1") <(echo "$result2")`
+	# do
+		# echo $i
+	# done
+	# echo ""
+	combined_result=$(paste -d',' <(echo "$result1") <(echo "$result2"))
+	echo "$combined_result" >> $tvfile
+	echo "" >> $tvfile
+
+	rm -f $file_path1
+}
+
 # address="search=%E5%B9%BF%E8%A5%BF&Submit=+" 
 getipurl="http://tonkiang.us/hoteliptv.php"
 # getipurl="https://www.foodieguide.com/iptvsearch/hoteliptv.php"
@@ -67,7 +114,7 @@ done
 echo $d >>$tvfile
 echo "" >>$tvfile
 
-cat tvtmpl.txt >> $tvfile
+# cat tvtmpl.txt >> $tvfile
 city=("%E8%B4%B5%E6%B8%AF" "%E7%8E%89%E6%9E%97")
 for cy in "${city[@]}"
 do
@@ -116,17 +163,21 @@ do
     done
     if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
         if [ $unip != "1.1.1.1" ];then
-            sed -i "s/110\.72\.79\.71\:808/$unip/g" $tvfile
+            #sed -i "s/110\.72\.79\.71\:808/$unip/g" $tvfile
+            getadr $unip "贵港酒店联通源"
         fi
         if [ $tlip != "1.1.1.1" ];then
-            sed -i "s/171\.108\.239\.8\:8181/$tlip/g" $tvfile
+            #sed -i "s/171\.108\.239\.8\:8181/$tlip/g" $tvfile
+            getadr $tlip "贵港酒店电信源"
         fi
     else
         if [ $unip != "1.1.1.1" ];then
-            sed -i "s/171\.38\.41\.71\:8181/$unip/g" $tvfile
+            #sed -i "s/171\.38\.41\.71\:8181/$unip/g" $tvfile
+            getadr $unip "玉林酒店联通源"
         fi
         if [ $tlip != "1.1.1.1" ];then
-            sed -i "s/180\.142\.87\.159\:8181/$tlip/g" $tvfile
+            #sed -i "s/180\.142\.87\.159\:8181/$tlip/g" $tvfile
+             getadr $tlip "玉林酒店电信源"
         fi
     fi
     rm $file_path2
