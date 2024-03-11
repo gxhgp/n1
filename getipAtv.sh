@@ -178,6 +178,26 @@ do
             fi
         fi
     done
+
+    for ((i=0; i<${#stau}; i++)); do
+        char="${stau:$i:1}"
+	if [ "$char" = "1" ]; then
+            if ((i % 2 == 0)); then
+	        tvip=$tlip
+	        tvname="电信源"
+	    else
+                tvip=$unip
+		tvname="联通源"
+            fi
+	    if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
+                tvname="贵港酒店"$tvname
+	    else
+                tvname="玉林酒店"$tvname
+	    fi
+            getadr $tvip $tvname
+	fi
+    done
+    
     if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
         if [ $unip != "1.1.1.1" ];then
             #sed -i "s/110\.72\.79\.71\:808/$unip/g" $tvfile
