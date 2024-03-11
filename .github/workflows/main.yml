@@ -2,7 +2,7 @@ name: getTvAndCfip
 on:
   #push:
   schedule:
-    - cron: '0 7 * * *'
+    - cron: '50 5 * * *'
 jobs:
   execute_script:
     runs-on: ubuntu-latest
