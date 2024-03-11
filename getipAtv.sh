@@ -114,8 +114,31 @@ done
 echo $d >>$tvfile
 echo "" >>$tvfile
 
-# cat tvtmpl.txt >> $tvfile
-city=("%E8%B4%B5%E6%B8%AF" "%E7%8E%89%E6%9E%97")
+stau=""
+for i in `grep -F "辽宁卫视" tvtmpl.txt`
+do
+    tvstau=`curl -I --max-time 60 http://180.142.87.159:8181/tsfile/live/0001_1.m3u8`
+    if echo $tvstau  | grep -q "Connection timed out" ; then
+        stau=$stau"1"
+    else
+        stau=$stau"0"
+    fi
+done
+city=()
+for ((i=0; i<4; i++)); do
+    char="${stau:$i:1}"
+    if [ "$char" = "1" ]; then
+        city+=("abc")
+    fi
+done
+if [ "${stau:0:1}" = "1" ] || [ "${stau:1:1}" = "1" ]; then
+    city+=("%E8%B4%B5%E6%B8%AF")
+fi
+if [ "${stau:2:1}" = "1" ] || [ "${stau:3:1}" = "1" ]; then
+    city+=("%E7%8E%89%E6%9E%97")
+fi
+city=($(echo "${city[@]}" | tr ' ' '\n' | sort -u | tr '\n' ' '))
+#city=("%E8%B4%B5%E6%B8%AF" "%E7%8E%89%E6%9E%97")
 for cy in "${city[@]}"
 do
     address="search=$cy&Submit=+"
