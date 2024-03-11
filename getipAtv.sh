@@ -125,12 +125,6 @@ do
     fi
 done
 city=()
-for ((i=0; i<4; i++)); do
-    char="${stau:$i:1}"
-    if [ "$char" = "1" ]; then
-        city+=("abc")
-    fi
-done
 if [ "${stau:0:1}" = "1" ] || [ "${stau:1:1}" = "1" ]; then
     city+=("%E8%B4%B5%E6%B8%AF")
 fi
