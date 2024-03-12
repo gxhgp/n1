@@ -115,10 +115,10 @@ do
 done
 city=()
 if [ "${stau:0:1}" = "1" ] || [ "${stau:1:1}" = "1" ]; then
-    city+=("%E8%B4%B5%E6%B8%AF")
+    city+=("%E7%8E%89%E6%9E%97")
 fi
 if [ "${stau:2:1}" = "1" ] || [ "${stau:3:1}" = "1" ]; then
-    city+=("%E7%8E%89%E6%9E%97")
+    city+=("%E8%B4%B5%E6%B8%AF")
 fi
 city=($(echo "${city[@]}" | tr ' ' '\n' | sort -u | tr '\n' ' '))
 #city=("%E8%B4%B5%E6%B8%AF" "%E7%8E%89%E6%9E%97")
