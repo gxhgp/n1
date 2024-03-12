@@ -106,11 +106,11 @@ tail -n +$sline rm.txt >>$tvfile
 stau=""
 for i in `grep -F "辽宁卫视" $tvfile|grep -v udp|awk -F"," '{print $2}'`
 do
-    tvstau=`curl -I --max-time 60 $i`
-    
+    tvstau=`curl -I -s --max-time 10 $i`
+    l=${#tvstau}
     echo $tvstau
     
-    if echo $tvstau  | grep -Eq "timed out|Failed to connect" ; then
+    if [[ $l -lt 1 ]] ; then
         stau=$stau"1"
     else
         stau=$stau"0"
