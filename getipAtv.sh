@@ -34,7 +34,7 @@ getadr(){
     echo "$combined_result"
     #sed -i "${s},${e}s/.*/${combined_result}/" $tvfile
     sed -i "${s},${e}d" $tvfile
-    sed -i "${s}i${combined_result}" $tvfile
+    sed -i "${s}i$combined_result" $tvfile
     rm -f $file_path1
 } 
 
