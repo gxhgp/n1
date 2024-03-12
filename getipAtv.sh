@@ -5,7 +5,7 @@ getadr(){
 	    n=$2
 	;;
 	*)
-		n="未名"
+	    n="未名"
 	;;
 	esac
 	  
@@ -114,10 +114,12 @@ done
 echo $d >>$tvfile
 echo "" >>$tvfile
 
+sline=`grep -n "酒店" rm.txt|head -n 1|awk -F":" '{print $1}'`
+sed -n '$sline,$p' rm.txt >>$tvfile
 stau=""
-for i in `grep -F "辽宁卫视" tvtmpl.txt`
+for i in `grep -F "辽宁卫视" $tvfile|awk -F"," '{print $2}'`
 do
-    tvstau=`curl -I --max-time 60 http://180.142.87.159:8181/tsfile/live/0001_1.m3u8`
+    tvstau=`curl -I --max-time 60 $i`
     if echo $tvstau  | grep -q "Connection timed out" ; then
         stau=$stau"1"
     else
