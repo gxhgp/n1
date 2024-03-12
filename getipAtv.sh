@@ -29,7 +29,7 @@ getadr(){
     
     # echo "$combined_result" >> $tvfile
     # echo "" >> $tvfile
-    sed -i '$3,$4c $combined_result' $tvfile
+    sed -i "$3,$4c $combined_result" $tvfile
     rm -f $file_path1
 }
 
