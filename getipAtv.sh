@@ -188,26 +188,6 @@ do
             getadr $tvip $tvname $((bline + 1)) $((bline + chlCout -2))
 	fi
     done
-    
-    if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
-        if [ $unip != "1.1.1.1" ];then
-            #sed -i "s/110\.72\.79\.71\:808/$unip/g" $tvfile
-            getadr $unip "贵港酒店联通源"
-        fi
-        if [ $tlip != "1.1.1.1" ];then
-            #sed -i "s/171\.108\.239\.8\:8181/$tlip/g" $tvfile
-            getadr $tlip "贵港酒店电信源"
-        fi
-    else
-        if [ $unip != "1.1.1.1" ];then
-            #sed -i "s/171\.38\.41\.71\:8181/$unip/g" $tvfile
-            getadr $unip "玉林酒店联通源"
-        fi
-        if [ $tlip != "1.1.1.1" ];then
-            #sed -i "s/180\.142\.87\.159\:8181/$tlip/g" $tvfile
-             getadr $tlip "玉林酒店电信源"
-        fi
-    fi
     rm $file_path2
 done
 
