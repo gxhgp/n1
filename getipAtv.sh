@@ -1,49 +1,36 @@
 #!/bin/bash
 getadr(){
-    case $# in
-	2)
-	    n=$2
-	;;
-	*)
-	    n="未名"
-	;;
-	esac
-	  
-	# url="http://tonkiang.us/9dlist2.php?s=$1&c=%E5%8C%97%E4%BA%AC"
-	url="http://tonkiang.us/9dlist2.php?s=$1&c=false"
-	# url="https://www.foodieguide.com/iptvsearch/alllist.php?s=$1"
-	# url= $getvurl$1
-	# echo $file_path
-	# exit
-	# echo $url
-	curl -so $file_path1 $url
-	count2=0
-	while [ $count2 -lt 120 ]; do
-		if [ -e "$file_path1" ]; then
-			break
-		else
-			count2=$((count2 + 1))
-		fi
-		sleep 1
-	done
-	if grep -q "暂时失效" $file_path1; then
-		return 5
+    # url="http://tonkiang.us/9dlist2.php?s=$1&c=%E5%8C%97%E4%BA%AC"
+    url="http://tonkiang.us/9dlist2.php?s=$1&c=false"
+    # url="https://www.foodieguide.com/iptvsearch/alllist.php?s=$1"
+    curl -so $file_path1 $url
+    count2=0
+    while [ $count2 -lt 120 ]; do
+	if [ -e "$file_path1" ]; then
+	    break
+	else
+	    count2=$((count2 + 1))
 	fi
+	sleep 1
+    done
+    if grep -q "暂时失效" $file_path1; then
+	return 5
+    fi
     # echo "99999999999999"
-	result1=`cat $file_path1|grep "float: left"|awk -F ">" '{print $2}'|awk -F "<" '{print $1}'`
-	result2=`cat $file_path1|grep 'copyto("'|awk -F '"' '{print $8}'`
-	combined_result=$(paste -d',' <(echo "$result1") <(echo "$result2"))
-	echo "$n,#genre#" >> $tvfile
-	# for i in `paste -d',' <(echo "$result1") <(echo "$result2")`
-	# do
-		# echo $i
-	# done
-	# echo ""
-	combined_result=$(paste -d',' <(echo "$result1") <(echo "$result2"))
-	echo "$combined_result" >> $tvfile
-	echo "" >> $tvfile
-
-	rm -f $file_path1
+    result1=`cat $file_path1|grep "float: left"|awk -F ">" '{print $2}'|awk -F "<" '{print $1}'`
+    result2=`cat $file_path1|grep 'copyto("'|awk -F '"' '{print $8}'`
+    combined_result=$(paste -d',' <(echo "$result1") <(echo "$result2"))
+    # echo "$n,#genre#" >> $tvfile
+    # for i in `paste -d',' <(echo "$result1") <(echo "$result2")`
+    # do
+	# echo $i
+    # done
+    # echo ""
+    
+    # echo "$combined_result" >> $tvfile
+    # echo "" >> $tvfile
+    sed -i '$3,$4c $combined_result' $tvfile
+    rm -f $file_path1
 }
 
 # address="search=%E5%B9%BF%E8%A5%BF&Submit=+" 
