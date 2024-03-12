@@ -175,7 +175,6 @@ TVB星河,http://180.167.104.105:9901/tsfile/live/1004_1.m3u8
 黑龙江,http://42.5.185.189:9901/tsfile/live/1145_1.m3u8
 
 玉林市酒店电信,#genre#
-
 玉林市酒店联通,#genre#
 东南卫视,http://171.38.41.71:8181/tsfile/live/0137_1.m3u8
 CCTV14-少儿,http://171.38.41.71:8181/tsfile/live/0014_1.m3u8
