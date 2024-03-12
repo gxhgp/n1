@@ -25,7 +25,8 @@ jobs:
           cat cfip/ip.txt >ip.txt
           #git config --local user.email "hkzc12@163.com"
           git config --local user.name "gxhgp"
-          git add .
+          #git add .
+          git add rm.txt ip.txt
           git commit *.txt -m "Add generated file"
           git push -f
         env:
