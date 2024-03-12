@@ -115,7 +115,7 @@ echo $d >>$tvfile
 echo "" >>$tvfile
 
 sline=`grep -n "酒店" rm.txt|head -n 1|awk -F":" '{print $1}'`
-sed -n '$sline,$p' rm.txt >>$tvfile
+tail -n +$sline rm.txt >>$tvfile
 stau=""
 for i in `grep -F "辽宁卫视" $tvfile|awk -F"," '{print $2}'`
 do
@@ -196,7 +196,9 @@ do
 	    else
                 tvname="玉林市酒店"$tvname
 	    fi
-            getadr $tvip $tvname
+            bline=`grep -n "$tvname" $tvfile|awk -F":" '{print $1}'`
+	    chlCout=`tail -n +$((bline+1)) "$tvfile" | awk -v target="#genre#" '$0 ~ target{print NR; exit}'`
+            getadr $tvip $tvname $((bline + 1)) $((bline + chlCout -2))
 	fi
     done
     
