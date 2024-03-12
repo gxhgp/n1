@@ -31,10 +31,10 @@ getadr(){
     # echo "" >> $tvfile
     s=$3
     e=$4
-    # echo "$combined_result"
+    echo "$combined_result" > $file_path3
     #sed -i "${s},${e}s/.*/${combined_result}/" $tvfile
     sed -i "${s},${e}d" $tvfile
-    sed -i "${s}i$combined_result" $tvfile
+    sed -i "${s} r $file_path3" $tvfile
     rm -f $file_path1
 } 
 
@@ -45,6 +45,7 @@ getipurl="http://tonkiang.us/hoteliptv.php"
 # getvurl="https://www.foodieguide.com/iptvsearch/alllist.php?s=$1"
 file_path1=tv/tmp1.txt
 file_path2=tv/tmp2.txt
+file_path3=tv/tmp3.txt
 # file_path2=/root/php/tvsource/tmp2.txt
 chldir=tv
 tvfile=tv/rm.txt
