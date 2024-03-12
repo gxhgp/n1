@@ -50,6 +50,7 @@ tvfile=tv/rm.txt
 fn=`date +%m%d`
 
 mkdir tv
+ls -l tv
 #获取香港节目
 curl -so $file_path2 https://epg.pw/test_channels.m3u
 tvgc=`cat $file_path2|grep "EXTINF:"|awk -F '"' '{print $6}'|sed 's/ //g'`
