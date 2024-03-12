@@ -29,7 +29,7 @@ getadr(){
     
     # echo "$combined_result" >> $tvfile
     # echo "" >> $tvfile
-    sed -i "\$3,\$4c \$combined_result" $tvfile
+    sed -i "${$3},${$4}c $combined_result" $tvfile
     rm -f $file_path1
 }
 
@@ -196,8 +196,9 @@ do
 	    chlCout=`tail -n +$((bline+1)) "$tvfile" | awk -v target="#genre#" '$0 ~ target{print NR; exit}'`
      
             echo "$tvip $tvname $((bline + 1)) $((bline + chlCout -2))"
-	    
-            getadr $tvip $tvname $((bline + 1)) $((bline + chlCout -2))
+	    if [ $tvip != "1.1.1.1" ];then
+                getadr $tvip $tvname $((bline + 1)) $((bline + chlCout -2))
+	    fi
 	fi
     done
     rm $file_path2
