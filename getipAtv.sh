@@ -186,10 +186,10 @@ do
 	if [ "$char" = "1" ]; then
             if ((i % 2 == 0)); then
 	        tvip=$tlip
-	        tvname="电信源"
+	        tvname="电信"
 	    else
                 tvip=$unip
-		tvname="联通源"
+		tvname="联通"
             fi
 	    if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
                 tvname="贵港市酒店"$tvname
