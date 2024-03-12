@@ -31,11 +31,12 @@ getadr(){
     # echo "" >> $tvfile
     s=$3
     e=$4
+    echo "$combined_result"
     #sed -i "${s},${e}s/.*/${combined_result}/" $tvfile
     sed -i "${s},${e}d" $tvfile
-     sed -i "${s}i${combined_result}" $tvfile
+    sed -i "${s}i${combined_result}" $tvfile
     rm -f $file_path1
-}
+} 
 
 # address="search=%E5%B9%BF%E8%A5%BF&Submit=+" 
 getipurl="http://tonkiang.us/hoteliptv.php"
@@ -121,7 +122,7 @@ do
         stau=$stau"0"
     fi
 done
-cat $tvfile
+
 echo $stau
 
 city=()
