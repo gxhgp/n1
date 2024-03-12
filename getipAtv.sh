@@ -192,9 +192,9 @@ do
 		tvname="联通源"
             fi
 	    if [ $cy == "%E8%B4%B5%E6%B8%AF" ];then
-                tvname="贵港酒店"$tvname
+                tvname="贵港市酒店"$tvname
 	    else
-                tvname="玉林酒店"$tvname
+                tvname="玉林市酒店"$tvname
 	    fi
             getadr $tvip $tvname
 	fi
