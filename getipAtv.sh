@@ -31,7 +31,7 @@ getadr(){
     # echo "" >> $tvfile
     s=$3
     e=$4
-    echo "$combined_result"
+    # echo "$combined_result"
     #sed -i "${s},${e}s/.*/${combined_result}/" $tvfile
     sed -i "${s},${e}d" $tvfile
     sed -i "${s}i$combined_result" $tvfile
@@ -152,7 +152,8 @@ do
     done
     ipAport=`cat $file_path2|grep -v "盗链"|grep 'hotellist'|awk -F "<" '{print $4}'|awk -F ">" '{print $2}'`
     chanl=`cat $file_path2|grep '频道数'|awk -F "<" '{print $3}'|awk -F ">" '{print $2}'`
-    status=`cat $file_path2|grep '<div style="color'|awk -F "<" '{print $2}'|awk -F ">" '{print $2}'`
+    #status=`cat $file_path2|grep '<div style="color'|awk -F "<" '{print $2}'|awk -F ">" '{print $2}'`
+    status=`cat $file_path2|grep '<div style="color'|awk -F "<" '{print $2$4$6}'|awk -F "b>" '{print $1$2}'|awk -F ">" '{print $2}'|awk -F "/" '{print $1}'|awk -F "&" '{print $1}'`
     adr=`cat $file_path2|grep -E '电信|联通|移动|adsl'|sed 's/ //g'`
     undt=-1
     unip="1.1.1.1"
