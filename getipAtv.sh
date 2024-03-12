@@ -113,6 +113,9 @@ do
         stau=$stau"0"
     fi
 done
+
+echo $stau
+
 city=()
 if [ "${stau:0:1}" = "1" ] || [ "${stau:1:1}" = "1" ]; then
     city+=("%E7%8E%89%E6%9E%97")
@@ -122,6 +125,9 @@ if [ "${stau:2:1}" = "1" ] || [ "${stau:3:1}" = "1" ]; then
 fi
 city=($(echo "${city[@]}" | tr ' ' '\n' | sort -u | tr '\n' ' '))
 #city=("%E8%B4%B5%E6%B8%AF" "%E7%8E%89%E6%9E%97")
+
+echo ${city[@]}
+
 for cy in "${city[@]}"
 do
     address="search=$cy&Submit=+"
@@ -185,6 +191,9 @@ do
 	    fi
             bline=`grep -n "$tvname" $tvfile|awk -F":" '{print $1}'`
 	    chlCout=`tail -n +$((bline+1)) "$tvfile" | awk -v target="#genre#" '$0 ~ target{print NR; exit}'`
+     
+            echo "$tvip $tvname $((bline + 1)) $((bline + chlCout -2))"
+	    
             getadr $tvip $tvname $((bline + 1)) $((bline + chlCout -2))
 	fi
     done
