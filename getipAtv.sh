@@ -104,7 +104,7 @@ echo "" >>$tvfile
 sline=`grep -n "酒店" rm.txt|head -n 1|awk -F":" '{print $1}'`
 tail -n +$sline rm.txt >>$tvfile
 stau=""
-for i in `grep -F "辽宁卫视" $tvfile|awk -F"," '{print $2}'`
+for i in `grep -F "辽宁卫视" $tvfile|grep -v udp|awk -F"," '{print $2}'`
 do
     tvstau=`curl -I --max-time 60 $i`
     if echo $tvstau  | grep -q "Connection timed out" ; then
