@@ -29,7 +29,9 @@ getadr(){
     
     # echo "$combined_result" >> $tvfile
     # echo "" >> $tvfile
-    sed -i "$3,$4s/.*/$combined_result/" $tvfile
+    s=$3
+    e=$4
+    sed -i "${s},${e}s/.*/${combined_result}/" $tvfile
     rm -f $file_path1
 }
 
