@@ -107,7 +107,10 @@ stau=""
 for i in `grep -F "辽宁卫视" $tvfile|grep -v udp|awk -F"," '{print $2}'`
 do
     tvstau=`curl -I --max-time 60 $i`
-    if echo $tvstau  | grep -q "Connection timed out" ; then
+    
+    echo $tvstau
+    
+    if echo $tvstau  | grep -Eq "timed out|Failed to connect" ; then
         stau=$stau"1"
     else
         stau=$stau"0"
