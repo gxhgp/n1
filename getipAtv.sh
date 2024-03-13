@@ -52,6 +52,7 @@ file_path3=tv/tmp3.txt
 chldir=tv
 tvfile=tv/rm.txt
 fn=`date +%m%d`
+wzzbip="202.103.213.192:8888"
 
 mkdir tv
 echo `ls -l tv`
@@ -213,6 +214,10 @@ do
     done
     rm $file_path2
 done
+zbip=`grep udp $tvfile|head -n 1|awk -F"/" '{print $3}'`
+if [ $wzzbip != $zbip ];then
+    sed -i "s/$zbip/$wzzbip/g" $tvfile
+fi
 
 mkdir cfip
 mkdir cfip/cfip
