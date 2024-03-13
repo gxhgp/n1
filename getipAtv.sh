@@ -31,10 +31,10 @@ getadr(){
     # echo "" >> $tvfile
     s=$3
     e=$4
-    echo "$combined_result" > $file_path3
-    #sed -i "${s},${e}s/.*/${combined_result}/" $tvfile
-    sed -i "${s},${e}d" $tvfile
-    sed -i "${s} r $file_path3" $tvfile
+    #echo "$combined_result" > $file_path3
+    sed -i "${s},${e}c\\$combined_result" $tvfile
+    #sed -i "${s},${e}d" $tvfile
+    #sed -i "${s} r $file_path3" $tvfile
     rm -f $file_path1
 } 
 
