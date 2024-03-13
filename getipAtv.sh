@@ -29,13 +29,14 @@ getadr(){
     
     # echo "$combined_result" >> $tvfile
     # echo "" >> $tvfile
-    s=$3
+    s=$(( $3+1 ))
     e=$4
     echo "$combined_result" > $file_path3
-    cat $file_path3
+    #cat $file_path3
     #sed -i "${s},${e} c ${combined_result}" $tvfile
     sed -i "${s},${e}d" $tvfile
-    sed -i "${s}r $file_path3" $tvfile
+    s=$s-1
+    sed -i "$3r $file_path3" $tvfile
     rm -f $file_path1
 } 
 
@@ -206,7 +207,7 @@ do
      
             echo "$tvip $tvname $((bline + 1)) $((bline + chlCout -2))"
 	    if [ $tvip != "1.1.1.1" ];then
-                getadr $tvip $tvname $((bline + 1)) $((bline + chlCout -2))
+                getadr $tvip $tvname $bline $((bline + chlCout -2))
 	    fi
 	fi
     done
