@@ -23,11 +23,13 @@ jobs:
         run: |
           cat tv/rm.txt >rm.txt
           cat cfip/ip.txt >ip.txt
-          #git config --local user.email "hkzc12@163.com"
-          git config --local user.name "gxhgp"
-          #git add .
-          git add rm.txt ip.txt
-          git commit *.txt -m "Add generated file"
-          git push -f
+          if [[ -n $(git status --porcelain) ]]; then
+              git config --local user.email "hkzc12@163.com"
+              git config --local user.name "gxhgp"
+              git add .
+              #git add rm.txt ip.txt
+              git commit *.txt -m "Add generated file"
+              git push -f
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
