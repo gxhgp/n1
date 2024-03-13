@@ -5,7 +5,7 @@ RTHK31,https://epg.pw/stream/656aed4c947cc765dd07ad4d546c1f327a50e44faad5fd28e36
 RTHK32,https://epg.pw/stream/9b4e26be0126fe2fa6db8b5ae8e25daba273002ca67c927f85af6c39362e114b.m3u8#https://epg.pw/stream/f89d11f3ffa194ba41d136cad3a82e6c99dca140cfb015551b10d35c995cd65b.ctv
 RTHK33,https://epg.pw/stream/3cd84be1fb3623f1c3ba7d3d26e3d607331255d6559bd3e6ded774a1ff7c2b89.m3u8#https://epg.pw/stream/7784f202591797be966bdec85d8d6e73e53bab96368869e775a142e8ffeaf93c.m3u8
 RTHK34,https://epg.pw/stream/16e85bed392dd123c9d057343c09e2310c6975d4866da8c92f7b0127fa865523.m3u8#https://epg.pw/stream/6e369058eba43ac78a0c076f78eaa1227afd471bdccf9df70077738d1152e0ba.m3u8#https://epg.pw/stream/8dc8b380861cc994bb3d9bb64f415d0d313eef5c60b5efbec01551f461837c92.m3u8
-TVBJ2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv
+TVBJ2,https://epg.pw/stream/1936e0180ebd92426c3868ef2bdd66c8217fbe9b33c7061122dc46c27ae56c78.ctv#https://epg.pw/stream/9a785bebd7cf671d3e5a7dbac74ffb79496585788e9af2bb60760b44109c84ff.ctv
 TVB亞洲劇,https://epg.pw/stream/c88adc69fe22cc05c7ff2984ad14db99f461e6dda12687cb7bbaf5e03a357a38.m3u8#https://epg.pw/stream/a4696392133577ed03dbedefe5c18c3c7a178b0899b2f814fa6c532bc521f8f4.m3u8#https://epg.pw/stream/5bf2b1b6e25985960785ccef6dc0acddc7424b6fc178ba1530817265e730f56f.m3u8#https://epg.pw/stream/546bdd4b82259d8d136893bafc3b1fa4dec137fb88ab10b9fa02b7469bc83a0c.m3u8#https://epg.pw/stream/df891b505a8433ebc8b75612066a1cc25b14149d1d52136d6c5e3b19e86aa6cf.m3u8#https://epg.pw/stream/3ac58ed08ada7fe3ab14bdbb13805a81339d7f9a66b0753a51af051a4ddfddf0.m3u8#https://epg.pw/stream/bce244fa023794cc786b2de797ae2b66b630c1a93aa2f23d2ad31ab0045d830a.m3u8#https://epg.pw/stream/7843556b9457c79f5185c8dc71e2c07c55dc12b034635c8075a8847163f8b483.m3u8
 TVB新聞臺,https://epg.pw/stream/e5ea85f8c05b463598deb2bd3490272191a18b6235807e15ce8876809c014396.m3u8#https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8#https://epg.pw/stream/e2af60cf6dea28b8136c21796a94e05031f44660c587b638ef03b825f90432bf.m3u8#https://epg.pw/stream/e42d43f285697c54fa100b46d6d52457f908037ab23032ca681bd7ff026c7b97.m3u8#https://epg.pw/stream/0f40c5b9e7af9348e5d9afb6b9c63c903e1053bf584d9430b2785c746bc3ec2d.m3u8#https://epg.pw/stream/dc88e4bb8165db1af83d0c571b8260a21c248841a2f1c8c44a2bbf840ea50eea.m3u8#https://epg.pw/stream/3a8d129a03f92db91cefa8f474b876f921d9b1b8346b42b1be50e7bcc7287940.m3u8#https://epg.pw/stream/45d33ca5afea92dd6248b82a27157a4ba65d57d77c3033903754cb294c65f0e3.ctv#https://epg.pw/stream/20437def92737d48f5b3dff38a62cc6c83f9174e57c2a913608dd4eaef9da3a8.m3u8
 TVB星河,https://epg.pw/stream/3388eca1a9b5d5c9a7da8bd8b4da3460113b22b0582b44f51a8111fc90f91749.m3u8
@@ -16,7 +16,7 @@ tvbs新闻台,https://epg.pw/stream/9a12f9c390e7723bdf60c11d413624b216e83169ced3
 tvb娛樂新聞,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c1c44216760dbc9395dc0a3.m3u8
 ช่องdiscoverykidshindi,https://epg.pw/stream/8cb6bea748427bbc2cc171e39457f629f39d6342f744a333ba85800a18c579d4.m3u8
 天映頻道,https://epg.pw/stream/e6e326ff18624c5a513d9663ed91a0aae2c5d30a6baca900796bb58f2a619f94.m3u8
-有线新闻台,https://epg.pw/stream/fa725c21b457ccb2a030aa1febf8143b32e64a705ef842bac4dda6bb1c13f2bf.m3u8#https://epg.pw/stream/d51cb354166be0099c5d4fcfd3484b6e6a83849a6dafeaa7a625f2a2fbe24e5f.m3u8#https://epg.pw/stream/63b7c2d407cfa08936f3ba0654dda7d631b52bf81ea07492219dae2cd78f67cd.m3u8#https://epg.pw/stream/239d04c2729e4f0669c36fbf1b7518407435278ef3150621b999f14137f0f3f3.ctv#https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8#https://epg.pw/stream/cea645ef7ddbe09e2dfeaffd5c9c6530e08b8d82a1a648cce5e12e264f3662b4.m3u8#https://epg.pw/stream/10311148721256637f60daaa945232de2d91db13870451c92a743a4d24ee08d0.m3u8#https://epg.pw/stream/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8#https://epg.pw/stream/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
+有线新闻台,https://epg.pw/stream/fa725c21b457ccb2a030aa1febf8143b32e64a705ef842bac4dda6bb1c13f2bf.m3u8#https://epg.pw/stream/d51cb354166be0099c5d4fcfd3484b6e6a83849a6dafeaa7a625f2a2fbe24e5f.m3u8#https://epg.pw/stream/63b7c2d407cfa08936f3ba0654dda7d631b52bf81ea07492219dae2cd78f67cd.m3u8#https://epg.pw/stream/239d04c2729e4f0669c36fbf1b7518407435278ef3150621b999f14137f0f3f3.ctv#https://epg.pw/stream/62de1488de6d094fddcbafd642b00abd04b1b64bfa9fc78485895a51ecfb90f7.m3u8#https://epg.pw/stream/ddcee8ae223200a8e79c3d10f153c7b9ad14ead3449536d9cf0d3a7272aef0f8.m3u8#https://epg.pw/stream/cea645ef7ddbe09e2dfeaffd5c9c6530e08b8d82a1a648cce5e12e264f3662b4.m3u8#https://epg.pw/stream/10311148721256637f60daaa945232de2d91db13870451c92a743a4d24ee08d0.m3u8#https://epg.pw/stream/85796ae4baf49d8d418849d5a8de11cc916a8c6e0c4b3671ee058e4516bd355d.m3u8#https://epg.pw/stream/37621f3d1d385bf204fa33bd1783610b135e7e7ca6175e1349fec9c4f662ba34.m3u8
 有线财经资讯,https://epg.pw/stream/e82c1cb2d8c23b892f8ff1ddedd4235df215dc4af511fccfe823471582bda4a0.m3u8#https://epg.pw/stream/e536b24d25d65a1e5ba8dad6f1762956d955f9d857068f79aa03386a75638d17.m3u8
 無線新聞台,https://epg.pw/stream/24ad86b6b170c8279e4b2961c998b8f0837e3217812ead12388ec930f2cb4ca8.ctv#https://epg.pw/stream/1d57a34778340406c923ddde53b9bbfd4903d711783cf2d6eda414ce79d59f07.ctv
 無線財經台,https://epg.pw/stream/9a5717216f8e5e6563211d66d2867374bfdfdd8a9ee8c48b0de2ddcb3a1f9b0d.ctv#https://epg.pw/stream/9ca1f3469a784e5997990c4d36181ed0bcb139705b1484ffe91562909b011614.m3u8#https://epg.pw/stream/5ac2b4268643c1726650960a7fa886e41b9c9db47c5f640c1ab0743bf6669b1c.ctv
@@ -24,7 +24,7 @@ tvb娛樂新聞,https://epg.pw/stream/129148399c951de40a4cff7cc62787466f1b6df54c
 耀才財經台,https://epg.pw/stream/c1e96c9d6e38145f7631fd9561f310261ef82a236544f7a1770cd1c6479cf2fe.m3u8#https://epg.pw/stream/30a1630dfb62c3260e2621263d459105380386fb9228611255d41360969c4a2e.m3u8#https://epg.pw/stream/3cb5dbb74bbbd3150891cf1795ae042b33baf187a619dc4ac42aa860dc85bf8e.m3u8#https://epg.pw/stream/72e6d938d023bbb1ad2c783c86273475d217a32541d77fb5c4113cfe7ae02b2b.m3u8
 耀才財經臺,https://epg.pw/stream/4eb5076e2c3d0b2d37160044f2676c072abecaaa7b3e9ddc24230af1e824d4cb.m3u8#https://epg.pw/stream/22c49293812a53154c679325dd65258944d73c180c1c47d19ac3a339ce95292b.m3u8
 香港衛視,https://epg.pw/stream/9e003540222ee22ad80c44cd40638a4ecafa63eb56be105aa93f49b14f03adf5.m3u8#https://epg.pw/stream/10332438b8326bfd6ce54c6cbab8538035ed503e01d3f7bacdd185b318c0ef7c.m3u8#https://epg.pw/stream/254091d35d4a521307f221ad8be812c20be4215b19bf9d5277fa89e78b03701f.m3u8
-鳳凰衛視,https://epg.pw/stream/e7c962221dbff35372616ecf33921a1e4fe9f0418de61426988a9f0334ebace6.ctv#https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8#https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8#https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8#https://epg.pw/stream/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8#https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
+鳳凰衛視,https://epg.pw/stream/4449f787f5ea0c3b693485107c2f18722fb73ffe25173e86b3a6c88ee50f8f28.m3u8#https://epg.pw/stream/aa98dcd3447197ff2a08c7605c93929ee0b5df9e0975a1b60f454f543317ff1e.m3u8#https://epg.pw/stream/bed861174ca3f5d4dd96d8bfc52fd0e2990a69c3e02324ef736495435192d7fa.m3u8#https://epg.pw/stream/e7c962221dbff35372616ecf33921a1e4fe9f0418de61426988a9f0334ebace6.ctv#https://epg.pw/stream/e6886dbde2158fbb51da8cd6db21e2bb5fb68f4e5aa4db51e3589f30c20a13d8.m3u8#https://epg.pw/stream/c77a6c3e914fd27b23140776fce89ecf408b6e3adb44621bef4ffce24931d730.m3u8
 鳳凰電影,https://epg.pw/stream/00ea4ae5e10fa8a781c213d369540e54a2366fc4018566bc7cbd306ff4bd680e.m3u8#https://epg.pw/stream/9ed301e39bb8ca159e243f22b480bf96dd911e48e89709a29959a5aab65608cf.ctv#https://epg.pw/stream/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.ctv
 
 其他频道,#genre#
@@ -273,84 +273,6 @@ CCTV5+体育赛事高清,http://180.143.113.80:8181/tsfile/live/0016_1.m3u8
 测试5,http://180.143.113.80:8181/tsfile/live/1072_1.m3u8
 
 玉林市酒店联通,#genre#
-东南卫视,http://171.38.41.71:8181/tsfile/live/0137_1.m3u8
-CCTV14-少儿,http://171.38.41.71:8181/tsfile/live/0014_1.m3u8
-CCTV13-新闻,http://171.38.41.71:8181/tsfile/live/0013_1.m3u8
-贵州卫视,http://171.38.41.71:8181/tsfile/live/0120_1.m3u8
-湖北卫视,http://171.38.41.71:8181/tsfile/live/0132_1.m3u8
-中国教育-1,http://171.38.41.71:8181/tsfile/live/1005_1.m3u8
-CCTV4-国际,http://171.38.41.71:8181/tsfile/live/0004_1.m3u8
-深圳卫视,http://171.38.41.71:8181/tsfile/live/0126_1.m3u8
-嘉佳卡通,http://171.38.41.71:8181/tsfile/live/1013_1.m3u8
-凤凰中文,http://171.38.41.71:8181/tsfile/live/1014_1.m3u8
-凤凰资讯,http://171.38.41.71:8181/tsfile/live/1015_1.m3u8
-炫动卡通,http://171.38.41.71:8181/tsfile/live/1016_1.m3u8
-上海卫视,http://171.38.41.71:8181/tsfile/live/0107_1.m3u8
-北京卫视,http://171.38.41.71:8181/tsfile/live/0122_1.m3u8
-安徽卫视,http://171.38.41.71:8181/tsfile/live/0130_1.m3u8
-天津卫视,http://171.38.41.71:8181/tsfile/live/0135_1.m3u8
-四川卫视,http://171.38.41.71:8181/tsfile/live/0123_1.m3u8
-浙江卫视,http://171.38.41.71:8181/tsfile/live/0124_1.m3u8
-重庆卫视,http://171.38.41.71:8181/tsfile/live/0142_1.m3u8
-江西卫视 高清,http://171.38.41.71:8181/tsfile/live/0138_1.m3u8
-广州台 高清,http://171.38.41.71:8181/tsfile/live/0115_1.m3u8
-佛山影视 高清,http://171.38.41.71:8181/tsfile/live/0139_1.m3u8
-经典电影,http://171.38.41.71:8181/tsfile/live/0143_1.m3u8
-广州影视 高清,http://171.38.41.71:8181/tsfile/live/0131_1.m3u8
-辽宁卫视,http://171.38.41.71:8181/tsfile/live/0121_1.m3u8
-宁夏卫视,http://171.38.41.71:8181/tsfile/live/0112_1.m3u8
-新疆卫视,http://171.38.41.71:8181/tsfile/live/0110_1.m3u8
-甘肃卫视,http://171.38.41.71:8181/tsfile/live/0141_1.m3u8
-延边卫视,http://171.38.41.71:8181/tsfile/live/1036_1.m3u8
-吉林卫视,http://171.38.41.71:8181/tsfile/live/0116_1.m3u8
-CCTV9-纪录,http://171.38.41.71:8181/tsfile/live/0009_1.m3u8
-广东珠江,http://171.38.41.71:8181/tsfile/live/1039_1.m3u8
-广东新闻,http://171.38.41.71:8181/tsfile/live/1040_1.m3u8
-广东体育,http://171.38.41.71:8181/tsfile/live/1041_1.m3u8
-CCTV3-综艺,http://171.38.41.71:8181/tsfile/live/0003_1.m3u8
-CCTV5-体育,http://171.38.41.71:8181/tsfile/live/0005_1.m3u8
-CCTV6-电影,http://171.38.41.71:8181/tsfile/live/0006_1.m3u8
-CCTV8-电视剧,http://171.38.41.71:8181/tsfile/live/0008_1.m3u8
-珠江电影,http://171.38.41.71:8181/tsfile/live/1046_1.m3u8
-动作电影,http://171.38.41.71:8181/tsfile/live/1047_1.m3u8
-廉江公共,http://171.38.41.71:8181/tsfile/live/1048_1.m3u8
-翡翠台,http://171.38.41.71:8181/tsfile/live/1049_1.m3u8
-南方1,http://171.38.41.71:8181/tsfile/live/1050_1.m3u8
-南方3,http://171.38.41.71:8181/tsfile/live/1051_1.m3u8
-南方4,http://171.38.41.71:8181/tsfile/live/1052_1.m3u8
-南方5,http://171.38.41.71:8181/tsfile/live/1053_1.m3u8
-青海卫视,http://171.38.41.71:8181/tsfile/live/0140_1.m3u8
-西藏卫视,http://171.38.41.71:8181/tsfile/live/0111_1.m3u8
-江苏卫视,http://171.38.41.71:8181/tsfile/live/0127_1.m3u8
-卡酷动画,http://171.38.41.71:8181/tsfile/live/1057_1.m3u8
-CCTV2-财经,http://171.38.41.71:8181/tsfile/live/0002_1.m3u8
-DTV1,http://171.38.41.71:8181/tsfile/live/1062_1.m3u8
-DTV2,http://171.38.41.71:8181/tsfile/live/1063_1.m3u8
-DTV3,http://171.38.41.71:8181/tsfile/live/1064_1.m3u8
-DTV4,http://171.38.41.71:8181/tsfile/live/1065_1.m3u8
-测试8,http://171.38.41.71:8181/tsfile/live/1066_1.m3u8
-测试9,http://171.38.41.71:8181/tsfile/live/1067_1.m3u8
-CCTV1-综合,http://171.38.41.71:8181/tsfile/live/0001_1.m3u8
-预留2,http://171.38.41.71:8181/tsfile/live/1069_1.m3u8
-本港台,http://171.38.41.71:8181/tsfile/live/1070_1.m3u8
-测试5,http://171.38.41.71:8181/tsfile/live/1073_1.m3u8
-测试6,http://171.38.41.71:8181/tsfile/live/1074_1.m3u8
-测试7,http://171.38.41.71:8181/tsfile/live/1075_1.m3u8
-广东卫视,http://171.38.41.71:8181/tsfile/live/0125_2.m3u8
-凤凰资讯 高清,http://171.38.41.71:8181/tsfile/live/1000_1.m3u8
-凤凰中文 高清,http://171.38.41.71:8181/tsfile/live/1001_1.m3u8
-凤凰香港 高清,http://171.38.41.71:8181/tsfile/live/1002_1.m3u8
-湖南卫视,http://171.38.41.71:8181/tsfile/live/0128_1.m3u8
-金鹰卡通,http://171.38.41.71:8181/tsfile/live/1003_1.m3u8
-星空卫视,http://171.38.41.71:8181/tsfile/live/1004_1.m3u8
-中国MTV,http://171.38.41.71:8181/tsfile/live/1006_1.m3u8
-风云剧场,http://171.38.41.71:8181/tsfile/live/0113_1.m3u8
-云南卫视,http://171.38.41.71:8181/tsfile/live/0119_1.m3u8
-CCTV7-军农,http://171.38.41.71:8181/tsfile/live/0007_1.m3u8
-CCTV10-科教,http://171.38.41.71:8181/tsfile/live/0010_1.m3u8
-CCTV11-戏曲,http://171.38.41.71:8181/tsfile/live/0011_1.m3u8
-CCTV12-社会与法,http://171.38.41.71:8181/tsfile/live/0012_1.m3u8
-CCTV15-音乐,http://171.38.41.71:8181/tsfile/live/0015_1.m3u8
 
 贵港市酒店电信,#genre#
 CCTV1-综合,http://171.108.239.8:8181/tsfile/live/0001_1.m3u8
