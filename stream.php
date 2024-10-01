@@ -1,7 +1,7 @@
 <?php
 $url = 'https://www.stream-link.org/stream-link.m3u';
 $file = zxCurl($url);
-$fix_file = str_replace('https://sc', 'https://dsgdfr.serv00.net/servi.php?url=https://sc', $file);
+$fix_file = str_replace('https://sc', 'https://xxxxxx.serv00.net/servi.php?url=https://sc', $file);
 //$fix_file = str_replace('https://sc', 'https://s8.630106.xyz/servi.php?url=https://sc', $file);
 //$fix_file = str_replace('https://sc', 'https://s8.mtvpry.nyc.mn/servi.php?url=https://sc', $file);
 $fix_file = str_replace('#EXTM3U','#EXTM3U x-tvg-url="http://content.stream-link.org/epg/guide.xml"',$fix_file);
