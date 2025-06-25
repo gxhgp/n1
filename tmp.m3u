@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTM3U x-tvg-url="https://fy.188766.xyz/e.xml"
+#EXTM3U x-tvg-url="https://epg.v1.mk/fy.xml"
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视中文台.png" group-title="数字频道",凤凰中文
 https://migu.188766.xyz/?migutoken=1acf263af8a5179057219edca45d0f1d&id=fhzw&pp=1
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/凤凰卫视资讯台.png" group-title="数字频道",凤凰资讯
@@ -171,3 +171,130 @@ http://39.137.75.234/000000001000/1000000004000023658/index.m3u8?channel-id=yste
 http://39.137.75.229/000000001000/1000000004000026167/index.m3u8?channel-id=ystenlive&Contentid=1000000004000026167&livemode=1&stbId=no
 #EXTINF:-1 tvg-name="newtv炫舞未来" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/NEWTV炫舞未来.png" group-title="国内频道",炫舞未来
 http://39.137.75.230/000000001000/1000000001000000515/index.m3u8?channel-id=ystenlive&Contentid=1000000001000000515&livemode=1&stbId=no
+
+#EXTINF:-1,tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.v1.mk/logo/CCTV1.png" group-title="国内",CCTV1
+http://cdn.jdshipin.com/jisu.php?id=cctv1
+#EXTINF:-1,tvg-id="cctv2" tvg-name="cctv2" tvg-logo="https://epg.v1.mk/logo/cctv2.png" group-title="国内",CCTV2
+http://cdn.jdshipin.com/jisu.php?id=cctv2
+#EXTINF:-1,tvg-id="cctv3" tvg-name="cctv3" tvg-logo="https://epg.v1.mk/logo/cctv3.png" group-title="国内",CCTV3
+http://cdn.jdshipin.com/jisu.php?id=cctv3
+#EXTINF:-1,tvg-id="cctv4" tvg-name="cctv4" tvg-logo="https://epg.v1.mk/logo/cctv4.png" group-title="国内",CCTV4
+http://cdn.jdshipin.com/jisu.php?id=cctv4
+#EXTINF:-1,tvg-id="cctv5" tvg-name="cctv5" tvg-logo="https://epg.v1.mk/logo/cctv5.png" group-title="国内",CCTV5
+http://cdn.jdshipin.com/jisu.php?id=cctv5
+#EXTINF:-1,tvg-id="cctv5+" tvg-name="cctv5+" tvg-logo="https://epg.v1.mk/logo/cctv5+.png" group-title="国内",CCTV5+
+http://cdn.jdshipin.com/jisu.php?id=cctv5p
+#EXTINF:-1,tvg-id="cctv6" tvg-name="cctv6" tvg-logo="https://epg.v1.mk/logo/cctv6.png" group-title="国内",CCTV6
+http://cdn.jdshipin.com/jisu.php?id=cctv6
+#EXTINF:-1,tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.v1.mk/logo/CCTV7.png" group-title="国内",CCTV7
+http://cdn.jdshipin.com/jisu.php?id=cctv7
+#EXTINF:-1,tvg-id="cctv8" tvg-name="cctv8" tvg-logo="https://epg.v1.mk/logo/cctv8.png" group-title="国内",CCTV8
+http://cdn.jdshipin.com/jisu.php?id=cctv8
+#EXTINF:-1,tvg-id="cctv9" tvg-name="cctv9" tvg-logo="https://epg.v1.mk/logo/cctv9.png" group-title="国内",CCTV9
+http://cdn.jdshipin.com/jisu.php?id=cctv9
+#EXTINF:-1,tvg-id="cctv10" tvg-name="cctv10" tvg-logo="https://epg.v1.mk/logo/cctv10.png" group-title="国内",CCTV10
+http://cdn.jdshipin.com/jisu.php?id=cctv10
+#EXTINF:-1,tvg-id="cctv11" tvg-name="cctv11" tvg-logo="https://epg.v1.mk/logo/cctv11.png" group-title="国内",CCTV11
+http://cdn.jdshipin.com/jisu.php?id=cctv11
+#EXTINF:-1,tvg-id="cctv12" tvg-name="cctv12" tvg-logo="https://epg.v1.mk/logo/cctv12.png" group-title="国内",CCTV12
+http://cdn.jdshipin.com/jisu.php?id=cctv12
+#EXTINF:-1,tvg-id="cctv13" tvg-name="cctv13" tvg-logo="https://epg.v1.mk/logo/cctv13.png" group-title="国内",CCTV13
+http://cdn.jdshipin.com/jisu.php?id=cctv13
+#EXTINF:-1,tvg-id="cctv14" tvg-name="cctv14" tvg-logo="https://epg.v1.mk/logo/cctv14.png" group-title="国内",CCTV14
+http://cdn.jdshipin.com/jisu.php?id=cctv14
+#EXTINF:-1,tvg-id="cctv15" tvg-name="cctv15" tvg-logo="https://epg.v1.mk/logo/cctv15.png" group-title="国内",CCTV15
+http://cdn.jdshipin.com/jisu.php?id=cctv15
+#EXTINF:-1,tvg-id="cctv16" tvg-name="cctv16" tvg-logo="https://epg.v1.mk/logo/cctv16.png" group-title="国内",CCTV16
+http://cdn.jdshipin.com/jisu.php?id=cctv16
+#EXTINF:-1,tvg-id="cctv17" tvg-name="cctv17" tvg-logo="https://epg.v1.mk/logo/cctv17.png" group-title="国内",CCTV17
+http://cdn.jdshipin.com/jisu.php?id=cctv17
+#EXTINF:-1,tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://epg.v1.mk/logo/北京卫视.png" group-title="国内",北京卫视
+http://cdn.jdshipin.com/jisu.php?id=bjws
+#EXTINF:-1,tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.v1.mk/logo/东方卫视.png" group-title="国内",东方卫视
+http://cdn.jdshipin.com/jisu.php?id=dfws
+#EXTINF:-1,tvg-id="天津卫视" tvg-name="天津卫视" tvg-logo="https://epg.v1.mk/logo/天津卫视.png" group-title="国内",天津卫视
+http://cdn.jdshipin.com/jisu.php?id=tjws
+#EXTINF:-1,tvg-id="重庆卫视" tvg-name="重庆卫视" tvg-logo="https://epg.v1.mk/logo/重庆卫视.png" group-title="国内",重庆卫视
+http://cdn.jdshipin.com/jisu.php?id=cqws
+#EXTINF:-1,tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" tvg-logo="https://epg.v1.mk/logo/黑龙江卫视.png" group-title="国内",黑龙江卫视
+http://cdn.jdshipin.com/jisu.php?id=hljws
+#EXTINF:-1,tvg-id="吉林卫视" tvg-name="吉林卫视" tvg-logo="https://epg.v1.mk/logo/吉林卫视.png" group-title="国内",吉林卫视
+http://cdn.jdshipin.com/jisu.php?id=jlws
+#EXTINF:-1,tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.v1.mk/logo/辽宁卫视.png" group-title="国内",辽宁卫视
+http://cdn.jdshipin.com/jisu.php?id=lnws
+#EXTINF:-1,tvg-id="河北卫视" tvg-name="河北卫视" tvg-logo="https://epg.v1.mk/logo/河北卫视.png" group-title="国内",河北卫视
+http://cdn.jdshipin.com/jisu.php?id=hbws
+#EXTINF:-1,tvg-id="山东卫视" tvg-name="山东卫视" tvg-logo="https://epg.v1.mk/logo/山东卫视.png" group-title="国内",山东卫视
+http://cdn.jdshipin.com/jisu.php?id=sdws
+#EXTINF:-1,tvg-id="山西卫视" tvg-name="山西卫视" tvg-logo="https://epg.v1.mk/logo/山西卫视.png" group-title="国内",山西卫视
+http://cdn.jdshipin.com/jisu.php?id=sxws
+#EXTINF:-1,tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.v1.mk/logo/陕西卫视.png" group-title="国内",陕西卫视
+http://cdn.jdshipin.com/jisu.php?id=snws
+#EXTINF:-1,tvg-id="安徽卫视" tvg-name="安徽卫视" tvg-logo="https://epg.v1.mk/logo/安徽卫视.png" group-title="国内",安徽卫视
+http://cdn.jdshipin.com/jisu.php?id=ahws
+#EXTINF:-1,tvg-id="河南卫视" tvg-name="河南卫视" tvg-logo="https://epg.v1.mk/logo/河南卫视.png" group-title="国内",河南卫视
+http://cdn.jdshipin.com/jisu.php?id=hnws
+#EXTINF:-1,tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.v1.mk/logo/湖北卫视.png" group-title="国内",湖北卫视
+http://cdn.jdshipin.com/jisu.php?id=hubws
+#EXTINF:-1,tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.v1.mk/logo/湖南卫视.png" group-title="国内",湖南卫视
+http://cdn.jdshipin.com/jisu.php?id=hunws
+#EXTINF:-1,tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.v1.mk/logo/江西卫视.png" group-title="国内",江西卫视
+http://cdn.jdshipin.com/jisu.php?id=jxws
+#EXTINF:-1,tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.v1.mk/logo/江苏卫视.png" group-title="国内",江苏卫视
+http://cdn.jdshipin.com/jisu.php?id=jsws
+#EXTINF:-1,tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.v1.mk/logo/浙江卫视.png" group-title="国内",浙江卫视
+http://cdn.jdshipin.com/jisu.php?id=zjws
+#EXTINF:-1,tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.v1.mk/logo/东南卫视.png" group-title="国内",东南卫视
+http://cdn.jdshipin.com/jisu.php?id=dnws
+#EXTINF:-1,tvg-id="厦门卫视" tvg-name="厦门卫视" tvg-logo="https://epg.v1.mk/logo/厦门卫视.png" group-title="国内",厦门卫视
+http://cdn.jdshipin.com/jisu.php?id=xmws
+#EXTINF:-1,tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.v1.mk/logo/广东卫视.png" group-title="国内",广东卫视
+http://cdn.jdshipin.com/jisu.php?id=gdws
+#EXTINF:-1,tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://epg.v1.mk/logo/深圳卫视.png" group-title="国内",深圳卫视
+http://cdn.jdshipin.com/jisu.php?id=szws
+#EXTINF:-1,tvg-id="广西卫视" tvg-name="广西卫视" tvg-logo="https://epg.v1.mk/logo/广西卫视.png" group-title="国内",广西卫视
+http://cdn.jdshipin.com/jisu.php?id=gxws
+#EXTINF:-1,tvg-id="贵州卫视" tvg-name="贵州卫视" tvg-logo="https://epg.v1.mk/logo/贵州卫视.png" group-title="国内",贵州卫视
+http://cdn.jdshipin.com/jisu.php?id=gzws
+#EXTINF:-1,tvg-id="四川卫视" tvg-name="四川卫视" tvg-logo="https://epg.v1.mk/logo/四川卫视.png" group-title="国内",四川卫视
+http://cdn.jdshipin.com/jisu.php?id=scws
+#EXTINF:-1,tvg-id="云南卫视" tvg-name="云南卫视" tvg-logo="https://epg.v1.mk/logo/云南卫视.png" group-title="国内",云南卫视
+http://cdn.jdshipin.com/jisu.php?id=ynws
+#EXTINF:-1,tvg-id="新疆卫视" tvg-name="新疆卫视" tvg-logo="https://epg.v1.mk/logo/新疆卫视.png" group-title="国内",新疆卫视
+http://cdn.jdshipin.com/jisu.php?id=xjws
+#EXTINF:-1,tvg-id="海南卫视" tvg-name="海南卫视" tvg-logo="https://epg.v1.mk/logo/海南卫视.png" group-title="国内",海南卫视
+http://cdn.jdshipin.com/jisu.php?id=hinws
+#EXTINF:-1,tvg-id="三沙卫视" tvg-name="三沙卫视" tvg-logo="https://epg.v1.mk/logo/三沙卫视.png" group-title="国内",三沙卫视
+http://cdn.jdshipin.com/jisu.php?id=ssws
+#EXTINF:-1,tvg-id="甘肃卫视" tvg-name="甘肃卫视" tvg-logo="https://epg.v1.mk/logo/甘肃卫视.png" group-title="国内",甘肃卫视
+http://cdn.jdshipin.com/jisu.php?id=gsws
+#EXTINF:-1,tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" tvg-logo="https://epg.v1.mk/logo/内蒙古卫视.png" group-title="国内",内蒙古卫视
+http://cdn.jdshipin.com/jisu.php?id=nmgws
+#EXTINF:-1,tvg-id="宁夏卫视" tvg-name="宁夏卫视" tvg-logo="https://epg.v1.mk/logo/宁夏卫视.png" group-title="国内",宁夏卫视
+http://cdn.jdshipin.com/jisu.php?id=nxws
+#EXTINF:-1,tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://epg.v1.mk/logo/青海卫视.png" group-title="国内",青海卫视
+http://cdn.jdshipin.com/jisu.php?id=qhws
+#EXTINF:-1,tvg-id="西藏卫视" tvg-name="西藏卫视" tvg-logo="https://epg.v1.mk/logo/西藏卫视.png" group-title="国内",西藏卫视
+http://cdn.jdshipin.com/jisu.php?id=xzws
+#EXTINF:-1,tvg-id="延边卫视" tvg-name="延边卫视" tvg-logo="https://epg.v1.mk/logo/延边卫视.png" group-title="国内",延边卫视
+http://cdn.jdshipin.com/jisu.php?id=ybws
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="国内",chc动作电影
+http://cdn.jdshipin.com/jisu.php?id=chcdzdy
+#EXTINF:-1,tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.v1.mk/logo/CHC影迷电影.png" group-title="国内",chc影迷电影
+http://cdn.jdshipin.com/jisu.php?id=chcymdy
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="国内",chc家庭电影
+http://cdn.jdshipin.com/jisu.php?id=chcjtyy
+#EXTINF:-1,tvg-id="凤凰中文" tvg-name="凤凰中文" tvg-logo="https://epg.v1.mk/logo/凤凰中文.png" group-title="海外",凤凰中文
+http://cdn.jdshipin.com/jisu.php?id=fhzw
+#EXTINF:-1,tvg-id="凤凰资讯" tvg-name="凤凰资讯" tvg-logo="https://epg.v1.mk/logo/凤凰资讯.png" group-title="海外",凤凰资讯
+http://cdn.jdshipin.com/jisu.php?id=fhzx
+#EXTINF:-1,tvg-id="凤凰香港" tvg-name="凤凰香港" tvg-logo="https://epg.v1.mk/logo/凤凰香港.png" group-title="海外",凤凰香港
+http://cdn.jdshipin.com/jisu.php?id=fhxg
+#EXTINF:-1,tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.v1.mk/logo/翡翠台.png" group-title="海外",翡翠台
+http://cdn.jdshipin.com/jisu.php?id=fct
+#EXTINF:-1,tvg-id="无线新闻" tvg-name="无线新闻" tvg-logo="https://epg.v1.mk/logo/无线新闻.png" group-title="海外",无线新闻
+http://cdn.jdshipin.com/jisu.php?id=wxxw
+#EXTINF:-1,tvg-id="中天新闻" tvg-name="中天新闻" tvg-logo="https://epg.v1.mk/logo/中天新闻.png" group-title="海外",中天新闻
+http://cdn.jdshipin.com/jisu.php?id=ztxw
+#EXTINF:-1,tvg-id="寰宇新闻" tvg-name="寰宇新闻" tvg-logo="https://epg.v1.mk/logo/寰宇新闻.png" group-title="海外",寰宇新闻
+http://cdn.jdshipin.com/jisu.php?id=hyxw
