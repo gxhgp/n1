@@ -1,2 +1,2 @@
-gxip:113.17.153.30:8001
-gdip:14.154.189.14:4022
+gxip:www.vvlcc.cn:8188
+gdip:wmh.synology.me:6633
